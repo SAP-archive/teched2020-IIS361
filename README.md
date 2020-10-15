@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS361 - Create Analytical SAP Fiori Apps Quickly and Efficiently
 
 ## Description
 
