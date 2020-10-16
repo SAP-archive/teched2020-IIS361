@@ -38,7 +38,7 @@ Navigate back to your subaccount overview page.
 
 ### Access SAP Business Application Studio
 
-Click this tool icon to access the SAP Business Application Studio
+Click this tool icon to access the SAP Business Application Studiot
 ![Welcome SCP Trial](../ex0/images/00_00_0020.png)
 
 ## Create Dev Space
@@ -62,7 +62,7 @@ Click this tool icon to access the SAP Business Application Studio
 2. Click button code, then click here (1) to copy the git clone link
 ![copy link](../ex0/images/00_00_0070.png)
 
-3. Open a new terminal via the header menu (1)
+3. Open a new terminal via the header menu as shown in the below screenshot & click on higlighetd point (1)
 ![new terminal](../ex0/images/00_00_0080.png)
 
 4. In the terminal window, type the following commands and confirm with return:
