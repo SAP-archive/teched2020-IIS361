@@ -26,3 +26,6 @@ Exercise details can be found below. Please follow the step wise instruction for
 - [Configuration of Content for Analytical List Page](exercises/ex2/)
 - [Configuration of the Filters in Analytical List Page](exercises/ex3/)
 - [Configuration of the Object Page](exercises/ex4/)
+
+## License
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
