@@ -70,3 +70,5 @@ Click this tool icon to access the SAP Business Application Studiot
     4a. Under the projects folder
     
     4b. git clone https://github.com/SAP-samples/teched2020-IIS361.git
+## Summary
+You have the environment setup for development of Fiori applications. To continue the exercise please go to (Setting up Fiori element project)[../ex1/README.md]

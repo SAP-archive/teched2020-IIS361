@@ -21,11 +21,11 @@ You will need to have a computer with Internet access, a browser (preferably Goo
 
 Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise Wish you all the best
 
-- [Getting Started](exercises/ex0/)
-- [Setting up Fiori element project](exercises/ex1/)
-- [Configuration of Content for Analytical List Page](exercises/ex2/)
-- [Configuration of the Filters in Analytical List Page](exercises/ex3/)
-- [Configuration of the Object Page](exercises/ex4/)
+- [Getting Started](exercises/ex0/README.md)
+- [Setting up Fiori element project](exercises/ex1/README.md)
+- [Configuration of Content for Analytical List Page](exercises/ex2/README.md)
+- [Configuration of the Filters in Analytical List Page](exercises/ex3/README.md)
+- [Configuration of the Object Page](exercises/ex4/README.md)
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
