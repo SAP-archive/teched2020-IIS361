@@ -1,0 +1,33 @@
+[{
+	"__metadata": {
+		"id": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('1')",
+		"uri": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('1')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_CalendarQuarterVHType"
+	},
+	"CalendarQuarter": "1",
+	"CalendarQuarterT": "Q1"
+}, {
+	"__metadata": {
+		"id": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('2')",
+		"uri": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('2')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_CalendarQuarterVHType"
+	},
+	"CalendarQuarter": "2",
+	"CalendarQuarterT": "Q2"
+}, {
+	"__metadata": {
+		"id": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('3')",
+		"uri": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('3')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_CalendarQuarterVHType"
+	},
+	"CalendarQuarter": "3",
+	"CalendarQuarterT": "Q3"
+}, {
+	"__metadata": {
+		"id": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('4')",
+		"uri": "https://ldai3uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_CalendarQuarterVH('4')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_CalendarQuarterVHType"
+	},
+	"CalendarQuarter": "4",
+	"CalendarQuarterT": "Q4"
+}]
