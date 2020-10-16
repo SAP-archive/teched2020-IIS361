@@ -151,4 +151,4 @@ In this step, you will configure a UI.PresentationVariant annotation. UI.Present
 Right click on webapp folder in the project explorer and choose Preview Application from the menu
 
 ## Summary
-You have successfuly annotated Chart & Table required for Analytical List Page. To continue the exercise please go to (Configuration of the Filters in Analytical List Page)[../ex3/README.md]
+You have successfuly annotated Chart & Table required for Analytical List Page. To continue the exercise please go to [Configuration of the Filters in Analytical List Page](../ex3/README.md)
