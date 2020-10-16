@@ -62,4 +62,4 @@ A project will be created and will be added to the project explorer
 ![Project Created](../ex1/images/01_00_0110.png)
 
 ## Summary
-You have successfuly created a Fiori elements Analytical List Page application. To continue the exercise please go to (Configuration of Content for Analytical List Page)[../ex2/README.md]
+You have successfuly created a Fiori elements Analytical List Page application. To continue the exercise please go to [Configuration of Content for Analytical List Page](../ex2/README.md)
