@@ -1,0 +1,716 @@
+[
+	{
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000040",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "40",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1003",
+	"ProductName": "Notebook Basic 19",
+	"NetProductPrice": "1650.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000049",
+	"SupplierCompanyName": "Talpa",
+	"GrossAmount": "3927.00",
+	"NetAmount": "3300.00",
+	"TaxAmount": "627.00",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000040",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "40",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1003",
+	"ProductName": "Notebook Basic 19",
+	"NetProductPrice": "1650.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000049",
+	"SupplierCompanyName": "Talpa",
+	"GrossAmount": "5890.50",
+	"NetAmount": "4950.00",
+	"TaxAmount": "940.50",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 3,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000030",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "30",
+	"DeliveryCalendarDate": "Jul 30, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1002",
+	"ProductName": "Notebook Basic 18",
+	"NetProductPrice": "1570.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000048",
+	"SupplierCompanyName": "DelBont Industries",
+	"GrossAmount": "3736.60",
+	"NetAmount": "2723.00",
+	"TaxAmount": "596.60",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000030",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "30",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1002",
+	"ProductName": "Notebook Basic 18",
+	"NetProductPrice": "1570.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000048",
+	"SupplierCompanyName": "DelBont Industries",
+	"GrossAmount": "3736.60",
+	"NetAmount": "2723.00",
+	"TaxAmount": "596.60",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_SalesOrderItem"
+		}
+	}
+},  {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000020",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "20",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "2972.62",
+	"NetAmount": "2498.00",
+	"TaxAmount": "474.62",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000007.2~0000000080",
+	"SalesOrder": "500000007",
+	"SalesOrderItem": "80",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000004",
+	"SoldToPartyCompanyName": "Panorama Studios",
+	"SoldToPartyCountry": "US",
+	"SoldToPartyCountryName": "USA",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "1486.31",
+	"NetAmount": "1249.00",
+	"TaxAmount": "237.31",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 1,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000020",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "20",
+	"DeliveryCalendarDate": "Jul 28, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "2972.62",
+	"NetAmount": "2498.00",
+	"TaxAmount": "474.62",
+	"Currency": "EUR",
+	"CurrencyT": "Euro",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000040",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "40",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1003",
+	"ProductName": "Notebook Basic 19",
+	"NetProductPrice": "1650.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000049",
+	"SupplierCompanyName": "Talpa",
+	"GrossAmount": "3927.00",
+	"NetAmount": "3300.00",
+	"TaxAmount": "627.00",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000040",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "40",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1003",
+	"ProductName": "Notebook Basic 19",
+	"NetProductPrice": "1650.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000049",
+	"SupplierCompanyName": "Talpa",
+	"GrossAmount": "5890.50",
+	"NetAmount": "4950.00",
+	"TaxAmount": "940.50",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 3,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000030",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "30",
+	"DeliveryCalendarDate": "Jul 30, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1002",
+	"ProductName": "Notebook Basic 18",
+	"NetProductPrice": "1570.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000048",
+	"SupplierCompanyName": "DelBont Industries",
+	"GrossAmount": "3736.60",
+	"NetAmount": "2723.00",
+	"TaxAmount": "596.60",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000030",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "30",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1002",
+	"ProductName": "Notebook Basic 18",
+	"NetProductPrice": "1570.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000048",
+	"SupplierCompanyName": "DelBont Industries",
+	"GrossAmount": "3736.60",
+	"NetAmount": "2723.49",
+	"TaxAmount": "596.60",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_SalesOrderItem"
+		}
+	}
+},  {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000000.2~0000000020",
+	"SalesOrder": "500000000",
+	"SalesOrderItem": "20",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000000",
+	"SoldToPartyCompanyName": "SAP",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "2972.62",
+	"NetAmount": "2498.00",
+	"TaxAmount": "474.62",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000007.2~0000000080",
+	"SalesOrder": "500000007",
+	"SalesOrderItem": "80",
+	"DeliveryCalendarDate": "Jul 29, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000004",
+	"SoldToPartyCompanyName": "Panorama Studios",
+	"SoldToPartyCountry": "US",
+	"SoldToPartyCountryName": "USA",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "1486.31",
+	"NetAmount": "1249.00",
+	"TaxAmount": "237.31",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 1,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_SalesOrderItem"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')",
+		"type": "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+	},
+	"ID": ".1~0500000012.2~0000000020",
+	"SalesOrder": "500000012",
+	"SalesOrderItem": "20",
+	"DeliveryCalendarDate": "Jul 28, 2018",
+	"DeliveryCalendarYear": "2018",
+	"DeliveryCalendarQuarter": "3",
+	"DeliveryCalendarQuarterT": "Q3",
+	"DeliveryCalendarMonth": "07",
+	"DeliveryCalendarMonthT": "July",
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"NetProductPrice": "1249.00",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"SalesOrderOverallStatus": "N",
+	"SalesOrderOverallStatusT": "New",
+	"SoldToParty": "100000005",
+	"SoldToPartyCompanyName": "TECUM",
+	"SoldToPartyCountry": "DE",
+	"SoldToPartyCountryName": "Germany",
+	"Supplier": "100000047",
+	"SupplierCompanyName": "Becker Berlin",
+	"GrossAmount": "2972.62",
+	"NetAmount": "2498.00",
+	"TaxAmount": "474.62",
+	"Currency": "USD",
+	"CurrencyT": "US Dollar",
+	"Quantity": 2,
+	"QuantityUnit": "EA",
+	"QuantityUnitT": "each",
+	"to_Product": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_Product"
+		}
+	},
+	"to_SalesOrder": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_SalesOrder"
+		}
+	},
+	"to_SalesOrderItem": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_SalesOrderItem"
+		}
+	}
+}]
