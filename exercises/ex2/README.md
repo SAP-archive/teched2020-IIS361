@@ -22,15 +22,17 @@ In this exercise, we will create the main page for the application based on Anal
 ### Configure Table
 In this step, you will configure the table & columns displayed in the table of the Analytical List Page. UI annotation ‘LineItem’ is used to represent the table, with DataField Records representing the columns. Below steps will guide you through this activity
 
-1. Place the curser between the Annotations tags and press CTRL/CMD + SPACE. From the options, choose UI.LineItem by pressing ENTER
+1. Add an Annotation Term UI.LineItem to the Annotations for Target "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
 
-2. Place your curser between Collection tags and press CTRL/CMD + SPACE. From the options, choose "DataField" Record and press ENTER
+2. UI.LineItem is a Collection of Records. Each Record is of type "UI.DataField" (related)
 
-3. Press CTRL/CMD + SPACE to open the list of available value type and choose Path. Press CTRL/CMD + SPACE to open the list of available properties and choose "DeliveryCalendarYear"
+3. Add Record of Type "UI.DataField"
 
-4. Come to new line after the first DataField Record is closed and repeat steps (2) - (4) to add columns for properties : "DeliveryCalendarMonth", "SalesOrder", "SalesOrderItem", "Product", "MainProductCategory", "SoldToParty", "Quantity", "NetAmount"
+4. Add PropertyValue annotation to the Record & set the Property attribute to "Value". Set the Path attribute "DeliveryCalendarYear"
 
-5. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
+5. Come to new line after the first DataField Record is closed and repeat steps (3) - (4) to add columns for properties : "DeliveryCalendarMonth", "SalesOrder", "SalesOrderItem", "Product", "MainProductCategory", "SoldToParty", "Quantity", "NetAmount"
+
+6. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
 <Annotation Term="UI.LineItem" >
     <Collection>
@@ -66,23 +68,21 @@ In this step, you will configure the table & columns displayed in the table of t
 ```
 
 ### Configure Chart
-In this step, you will configure the chart to be displayed in the analytical list page. UI Annotation "Chart" is used to represent the Chart control. You can configure different measures & dimensions of the Chart & as well as the chart type
+In this step, you will configure the chart to be displayed in the analytical list page. Annotation Term "UI.Chart" is used to Visualize the App result in Chart format. You can configure different measures & dimensions of the Chart & as well as the chart type
 
-1. Come to new line after the UI.LineItem annotation is closed and press CTRL/CMD + SPACE. From the options, choose UI.Chart annotation
+1. Add Annotation Term "UI.Chart" under Annotation targeting "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType" (You can alss CTRL/CMD + SPACE to open the option list)
 
-2. Press CTRL/CMD + SPACE to choose value type as EnumMember for ChartType property. From the list, choose "UI.ChartType/Column"
+2. Add a PropertyValue ChartType & set EnumMember as "UI.ChartType/Column"
 
-3. In the new line, open the list of options by pressing CTRL/CMD + SPACE and press enter on Title property. Add string value as "Revenue by Customer"
+3. Add a PropertyValue Title & set String attribute as "Revenue by Customer"
 
-4. Repeat  step 3 for adding Description property. Add string value for description as "Net Revenue by Customer"
+4. Add a PropertyValue Description & set String attribute as "Net Revenue by Customer"
 
-5.  In the new line, add Measure property from the list of options opened by pressing CTRL/CMD + SPACE. Add the property path as "NetAmount"
+5. Add a PropertyValue Measure & set PropertyPath attribute as "NetAmount"
 
-6. In the new line, add Dimension property from the list of options opened by pressing CTRL/CMD + SPACE
+6. Add a PropertyValue Dimensions. Add Collection as child & add two PropertyPath, one should be "SoldToParty" and the other should be "DeliveryCalendarYear"
 
-7. Add the 2 property paths. One should be "SoldToParty" and the other should be "DeliveryCalendarYear"
-
-8. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
+7. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
 <Annotation Term="UI.Chart" >
     <Record Type="UI.ChartDefinitionType">
@@ -111,7 +111,7 @@ In this step, you will configure a UI.PresentationVariant annotation. UI.Present
 
 2. As a child of the Record annotation, select Text property and add string value as "Default"
 
-3. Add SortOrder property and set property path as "NetAmount"
+3. Add SortOrder property and set PropertyPath as "NetAmount"
 
 4. As child to SortOrder property, add Descending property and set Bool value as "true"
 
