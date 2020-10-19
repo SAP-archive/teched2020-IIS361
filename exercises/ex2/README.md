@@ -4,7 +4,7 @@ In this exercise, we will create the main page for the application based on Anal
 ## Steps for creating UI annotations
 
 ### Modify the annotation.xml
-1. To start, double click on the 'annotation.xml' file in the 'annotations' folder under 'webapp' to open
+1. To start, double click on the **'annotation.xml'** file in the 'annotations' folder under 'webapp' to open
 
 2. Place your curser after the schema definition and press ENTER
 
@@ -22,15 +22,15 @@ In this exercise, we will create the main page for the application based on Anal
 ### Configure Table
 In this step, you will configure the table & columns displayed in the table of the Analytical List Page. UI annotation ‘LineItem’ is used to represent the table, with DataField Records representing the columns. Below steps will guide you through this activity
 
-1. Add an Annotation Term UI.LineItem to the Annotations for Target "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+1. Add an Annotation Term **UI.LineItem** to the Annotations for Target "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
 
-2. UI.LineItem is a Collection of Records. Each Record is of type "UI.DataField" (related)
+2. UI.LineItem is a Collection of Records. Each Record is of type **"UI.DataField"** (related)
 
 3. Add Record of Type "UI.DataField"
 
-4. Add PropertyValue annotation to the Record & set the Property attribute to "Value". Set the Path attribute "DeliveryCalendarYear"
+4. Add PropertyValue annotation to the Record & set the Property attribute to "Value". Set the Path attribute **"DeliveryCalendarYear"**
 
-5. Come to new line after the first DataField Record is closed and repeat steps (3) - (4) to add columns for properties : "DeliveryCalendarMonth", "SalesOrder", "SalesOrderItem", "Product", "MainProductCategory", "SoldToParty", "Quantity", "NetAmount"
+5. Come to new line after the first DataField Record is closed and repeat steps (3) - (4) to add columns for properties : **"DeliveryCalendarMonth"**, **"SalesOrder"**, **"SalesOrderItem"**, **"Product"**, **"MainProductCategory"**, **"SoldToParty"**, **"Quantity"**, **"NetAmount"**
 
 6. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -70,17 +70,17 @@ In this step, you will configure the table & columns displayed in the table of t
 ### Configure Chart
 In this step, you will configure the chart to be displayed in the analytical list page. Annotation Term "UI.Chart" is used to Visualize the App result in Chart format. You can configure different measures & dimensions of the Chart & as well as the chart type
 
-1. Add Annotation Term "UI.Chart" under Annotation targeting "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType" (You can alss CTRL/CMD + SPACE to open the option list)
+1. Add Annotation Term **"UI.Chart"** under Annotation targeting "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType" (You can alss CTRL/CMD + SPACE to open the option list)
 
-2. Add a PropertyValue ChartType & set EnumMember as "UI.ChartType/Column"
+2. Add a PropertyValue **ChartType** & set EnumMember as **"UI.ChartType/Column"**
 
-3. Add a PropertyValue Title & set String attribute as "Revenue by Customer"
+3. Add a PropertyValue **Title** & set String attribute as **"Revenue by Customer"**
 
-4. Add a PropertyValue Description & set String attribute as "Net Revenue by Customer"
+4. Add a PropertyValue **Description** & set String attribute as **"Net Revenue by Customer"**
 
-5. Add a PropertyValue Measure & set PropertyPath attribute as "NetAmount"
+5. Add a PropertyValue **Measure** & set PropertyPath attribute as **"NetAmount"**
 
-6. Add a PropertyValue Dimensions. Add Collection as child & add two PropertyPath, one should be "SoldToParty" and the other should be "DeliveryCalendarYear"
+6. Add a PropertyValue **Dimensions**. Add Collection as child & add two PropertyPath, one should be **"SoldToParty"** and the other should be **"DeliveryCalendarYear"**
 
 7. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -107,19 +107,19 @@ In this step, you will configure the chart to be displayed in the analytical lis
 ### Configure Presentation Variant
 In this step, you will configure a UI.PresentationVariant annotation. UI.PresentationVariant allows you to configure the visualization artifacts, Sortorder, Initial expansion level in case of a grouped table,...etc. You can create multiple such presentation variants and select one of the variant to be loaded
 
-1. In the same level as UI.Chart/UI.LineItem annotation add UI.PresentationVariant (You can press CTRL/CMD + SPACE to get the available options autocomplete)
+1. In the same level as UI.Chart/UI.LineItem annotation add **UI.PresentationVariant** (You can press CTRL/CMD + SPACE to get the available options autocomplete)
 
-2. As a child of the Record annotation, select Text property and add string value as "Default"
+2. As a child of the Record annotation, select **Text** property and add string value as **"Default"**
 
-3. Add SortOrder property and set PropertyPath as "NetAmount"
+3. Add **SortOrder** property and set PropertyPath as **"NetAmount"**
 
-4. As child to SortOrder property, add Descending property and set Bool value as "true"
+4. As child to SortOrder property, add **Descending** property and set Bool value as **"true"**
 
-5. Add IncludeGrandTotal property and set the Bool value as "false"
+5. Add **IncludeGrandTotal** property and set the Bool value as **"false"**
 
-6. Add InitialExpansionLevel property and set Int value as "1"
+6. Add **InitialExpansionLevel** property and set Int value as **"1"**
 
-7. Add Visualizations property & add the 2 annotation paths, @UI.LineItem for table and @UI.Chart for Chart
+7. Add **Visualizations** property & add the 2 annotation paths, **@UI.LineItem** for table and **@UI.Chart** for Chart
 
 8. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -149,7 +149,7 @@ In this step, you will configure a UI.PresentationVariant annotation. UI.Present
 
 ## Run the App
 Right click on webapp folder in the project explorer and choose Preview Application from the menu.
-The app loads in the popup that opens up. Type ‘EUR’ as the currency and click on ‘Go’.
+The app loads in the popup that opens up. Type **‘EUR’** as the currency and click on ‘Go’.
 As one can see the filter bar is empty. We will create some content for it next.
 ![App Preview](../ex2/images/AppPreview.png)
 ![ContentArea Preview](../ex2/images/AppContentArea.png)
