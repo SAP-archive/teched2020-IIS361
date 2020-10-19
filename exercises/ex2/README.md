@@ -152,6 +152,7 @@ Right click on webapp folder in the project explorer and choose Preview Applicat
 The app loads in the popup that opens up. Type **‘EUR’** as the currency and click on ‘Go’.
 As one can see the filter bar is empty. We will create some content for it next.
 ![App Preview](../ex2/images/AppPreview.png)
+
 ![ContentArea Preview](../ex2/images/AppContentArea.png)
 
 ## Summary

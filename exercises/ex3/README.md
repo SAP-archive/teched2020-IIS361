@@ -2,9 +2,9 @@
 You will learn to create compact and visual filters in the filter bar of the Analytical List Page.
 
 ## Configure Compact Filters
-1. Add UI.SelectionField as a child of Annotations the from the option
+1. Add **UI.SelectionField** as a child of Annotations the from the option
 
-2. Add PropertyPaths for "DeliveryCalendarDate", "SoldToParty", "Product", "MainProductCategory", "DeliveryCalendarQuarter"
+2. Add PropertyPaths for **"DeliveryCalendarDate"**, **"SoldToParty"**, **"Product"**, **"MainProductCategory"**, **"DeliveryCalendarQuarter"**
 
 3. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -35,17 +35,17 @@ Fiori user experiance recommends the filters to be displayed in a Visual format 
 ```
 4. Visual Filter is an interactive chart and one needs to create UI.Chart annotation to specify corresponding information
 
-5. Select UI.Chart from the options under the newly created annotations
+5. Select **UI.Chart** from the options under the newly created annotations
 
-6. Add a Qualifier for your UI.Chart annotation and add its value as "FilterQuantityByDate"
+6. Add a **Qualifier** for your UI.Chart annotation and add its value as **"FilterQuantityByDate"**
 
-7. Select the Chart type property and set EnumMember as "UI.ChartType/Line"
+7. Select the **Charttype** property and set EnumMember as **"UI.ChartType/Line"**
 
-8. Add Title property and set String value as "Quantity by Delivery Date"
+8. Add **Title** property and set String value as **"Quantity by Delivery Date"**
 
-9. Add Measure property and set PropertyPath as "Quantity"
+9. Add **Measure** property and set PropertyPath as **"Quantity"**
 
-10. Add Dimension property and set the PropertyPath as "DeliveryDate"
+10. Add **Dimension** property and set the PropertyPath as **"DeliveryDate"**
 
 11. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -68,13 +68,13 @@ Fiori user experiance recommends the filters to be displayed in a Visual format 
 ```
 *Now, you need to reference the chart in a presentation variant to display it in the filter bar*
 
-12. Add UI.PresentationVariant as a sibling to UI.Chart annotations
+12. Add **UI.PresentationVariant** as a sibling to UI.Chart annotations
 
-13. Add the Qualifier for your UI.PresentationVariant annotation and set its value as "FilterQuantityByDate"
+13. Add the **Qualifier** for your UI.PresentationVariant annotation and set its value as **"FilterQuantityByDate"**
 
-14. Add Visualizations property in UI.PresentationVariant
+14. Add **Visualizations** property in UI.PresentationVariant
 
-15. Add the annotations path, @UI.Chart#FilterQuantityByDate
+15. Add the annotations path, **@UI.Chart#FilterQuantityByDate**
 
 16. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -92,17 +92,17 @@ Fiori user experiance recommends the filters to be displayed in a Visual format 
 
 17. Add a new Annotations tag under the Schema and set the target as 'Z_SEPMRA_SO_SALESORDERANALYSISType/DeliveryCalendarDate'
 
-18. Add Common.ValueList annotations as a child of the newly created Annotations
+18. Add **Common.ValueList** annotations as a child of the newly created Annotations
 
-19. Under CollectionPath property, add the property string value as "SEPMRA_SO_ALP_SLDORDERITEM"
+19. Under **CollectionPath** property, add the property string value as **"SEPMRA_SO_ALP_SLDORDERITEM"**
 
-20. Add PresentationVariantQualifier property set the String as "FilterQuantityByDate"
+20. Add **PresentationVariantQualifier** property set the String as **"FilterQuantityByDate"**
 
-21. Add Record "ValueListParameterInOut"
+21. Add Record **"ValueListParameterInOut"**
 
-22. Add LocalDataProperty as a child of ValueListParameterInOut and set PropertyPath to "DeliveryCalendarDate" 
+22. Add **LocalDataProperty** as a child of ValueListParameterInOut and set PropertyPath to **"DeliveryCalendarDate"**
 
-23. Add for ValueListProperty as a child of ValueListParameterInOut and set String value as "DeliveryDate"
+23. Add for **ValueListProperty** as a child of ValueListParameterInOut and set String value as **"DeliveryDate"**
 
 24. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -131,17 +131,17 @@ Fiori user experiance recommends the filters to be displayed in a Visual format 
 ### Visual Filter - Quantity By Product
 In this step, you will add a second visual filter. The configuration is similar to what you’ve already done for the first visual filter in the previous step (definition of the chart & mapping to the property from main entity set)
 
-1. Extend the Annotations for target SEPMRA_SO_ALP_SLDORDERITEMType and add UI.Chart (Press CTRL/CMD + SPACE to open the option list)
+1. Extend the Annotations for target SEPMRA_SO_ALP_SLDORDERITEMType and add **UI.Chart** (Press CTRL/CMD + SPACE to open the option list)
 
-2. Add a Qualifier for your UI.Chart annotation and set its value as "FilterQuantityByProduct"
+2. Add a **Qualifier** for your UI.Chart annotation and set its value as **"FilterQuantityByProduct"**
 
-3. Add ChartType property and set the EnumMember "UI.ChartType/Bar"
+3. Add **ChartType** property and set the EnumMember **"UI.ChartType/Bar"**
 
-4. Add Title property to the newly added UI.Chart and set the String attribute to "Quantity by Product"
+4. Add **Title** property to the newly added UI.Chart and set the String attribute to **"Quantity by Product"**
 
-5. Add Measure property and set the PropertyPath as "Quantity"
+5. Add **Measure** property and set the PropertyPath as **"Quantity"**
 
-6. Add Dimension property and set the PropertyPath as "Product"
+6. Add **Dimension** property and set the PropertyPath as **"Product"**
 
 7. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -164,11 +164,11 @@ In this step, you will add a second visual filter. The configuration is similar 
 ```
 *Now, you need to reference the chart in a presentation variant to display it in the filter bar*
 
-10. Add UI.PresentationVariant and set the Qualifier attributes as "FilterQuantityByProduct"
+10. Add **UI.PresentationVariant** and set the **Qualifier** attributes as **"FilterQuantityByProduct"**
 
-11. Add Visualizations property to UI.PresentationVariant
+11. Add **Visualizations** property to UI.PresentationVariant
 
-12. Add the AnnotationsPath tag and set the value as @UI.Chart#FilterQuantityByProduct
+12. Add the AnnotationsPath tag and set the value as **@UI.Chart#FilterQuantityByProduct**
 
 13. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -186,19 +186,19 @@ In this step, you will add a second visual filter. The configuration is similar 
 
 14. Add a new Annotations under Schema and set the target as Z_SEPMRA_SO_SALESORDERANALYSISType/Product
 
-15. Add Common.ValueList under the Annotations
+15. Add **Common.ValueList** under the Annotations
 
-16. Add CollectionPath property under Common.ValueList and set String value as "SEPMRA_SO_ALP_SLDORDERITEM"
+16. Add **CollectionPath** property under Common.ValueList and set String value as **"SEPMRA_SO_ALP_SLDORDERITEM"**
 
-17. Add PresentationVariantQualifier property and set the attribute String as "FilterQuantityByProduct"
+17. Add **PresentationVariantQualifier** property and set the attribute String as **"FilterQuantityByProduct"**
 
 18. Add Parameters property which is of type Collection of Record
 
-19. Add a Record of Type "ValueListParameterInOut"
+19. Add a Record of Type **"ValueListParameterInOut"**
 
-20. Add PropertyValue & set the Property to LocalDataProperty and set the PropertyPath as "Product"
+20. Add PropertyValue & set the Property to **LocalDataProperty** and set the PropertyPath as **"Product"**
 
-21. Add PropertyValue & set the Property to ValueListProperty and set the PropertyPath as "Product"
+21. Add PropertyValue & set the Property to **ValueListProperty** and set the PropertyPath as **"Product"**
 
 22. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S.Your final annotation will look like below
 ```xml
@@ -223,19 +223,19 @@ In this step, you will add a second visual filter. The configuration is similar 
 ## Configure Semantic Coloring
 In this step, you will define the criticality coloring to the visual filter bar based on the sales order items. Criticality annotations allows you to define the improvement direction by specifying different ranges and when the actual values cross those boundaries specified application, Visual Filterbar charts displays criticality coloring to display the situation
 
-1. Extend the Annotations for target SEPMRA_SO_ALP_SLDORDERITEMType and add UI.DataPoint (You can open the option list by pressing CTRL/CMD + SPACE)
+1. Extend the Annotations for target SEPMRA_SO_ALP_SLDORDERITEMType and add **UI.DataPoint** (You can open the option list by pressing CTRL/CMD + SPACE)
 
-2. Add Qualifier for your UI.DataPoint annotation and set its value as "Quantity"
+2. Add **Qualifier** for your UI.DataPoint annotation and set its value as **"Quantity"**
 
-3. Add a child annotation with name PropertyValue & set the Property attribute as Value. Add another attribute path and set as "Quantity"
+3. Add a child annotation with name PropertyValue & set the Property attribute as **Value**. Add another attribute path and set as **"Quantity"**
 
-4. At the same level add another PropertyValue & set the property attribute to CriticalityCalculation
+4. At the same level add another PropertyValue & set the property attribute to **CriticalityCalculation**
 
-5. Add PropertyValue as child & set Property to ImprovementDirection. Add EnumMember attribute & set "UI.ImprovementDirectionType/Maximize"
+5. Add PropertyValue as child & set Property to **ImprovementDirection**. Add EnumMember attribute & set **"UI.ImprovementDirectionType/Maximize"**
 
-6. Add another PropertyValue & set Property to ToleranceRangeLowValue. Add Int attribute & set as 5
+6. Add another PropertyValue & set Property to **ToleranceRangeLowValue**. Add Int attribute & set as **"5"**
 
-7. Add another PropertyValue & set Property to ToleranceRangeLowValue. Add Int attribute & set as 4
+7. Add another PropertyValue & set Property to **ToleranceRangeLowValue**. Add Int attribute & set as **"4"**
 
 8. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
 ```xml
@@ -254,11 +254,11 @@ In this step, you will define the criticality coloring to the visual filter bar 
 ```
 *Criticality configurations are annotated in the above instructions. Now you need to associate this configuration to the Chart annotation created for representing the Visual Filter which is described below*
 
-8. Add a PropertyValue MeasureAttributes to the UI.Chart#FilterQualityByDate
+8. Add a PropertyValue **MeasureAttributes** to the **UI.Chart#FilterQualityByDate**
 
-9. Add a child PropertyValue DataPoint to the MeasureAttribute & set the AnnotationPath as @UI.DataPoint#Quantity
+9. Add a child PropertyValue **DataPoint** to the MeasureAttribute & set the AnnotationPath as **@UI.DataPoint#Quantity**
 
-10. Add child PropertyValue Measure to the MeasureAttribute & PropertyPath as "Quantity"
+10. Add child PropertyValue **Measure** to the MeasureAttribute & PropertyPath as **"Quantity"**
 
 11. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final UI.Chart annotation will look like below
 ```xml
@@ -292,6 +292,7 @@ In this step, you will define the criticality coloring to the visual filter bar 
 In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
 The app loads in the popup that opens up. Type ‘EUR’ as the currency and click on ‘Go’. Click on the ‘Compact filter’ mode in the header to display the compact filters.
 ![Visual Filter Preview](../ex3/images/AppVisualFilterArea.png)
+
 ![Compact Filter Preview](../ex3/images/AppCompactFilterArea.png)
 
 ## Summary
