@@ -210,7 +210,7 @@ Save the annotation file by clicking the ‘Save’ from File Menu or pressing C
             </Annotation>
 ```
 
-## RUN THE APP
+## Run the App
 
 In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
 Once the app loads, type ‘EUR’ as the currency and click on ‘Go'. Navigate to the ObjectPage by clicking on the navigation indicator ( ‘>’ at the end of a row) for a sales order item in the table.
