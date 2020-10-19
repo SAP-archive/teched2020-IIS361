@@ -163,4 +163,4 @@ In this part, you will create the annotations to display the header and content 
 
 In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
 Once the app loads, type ‘EUR’ as the currency and click on ‘Go'. Navigate to the ObjectPage by clicking on the navigation indicator ( ‘>’ at the end of a row) for a sales order item in the table.
-
+![Visual Filter Preview](../ex2/images/AppObjectPage.png)
