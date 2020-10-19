@@ -289,7 +289,8 @@ In this step, you will define the criticality coloring to the visual filter bar 
 ```
 
 ## Run the App
-In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu.
+In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
+The app loads in the popup that opens up. Type ‘EUR’ as the currency and click on ‘Go’.
 
 ## Summary
 You have successfully learned how to create Visual Filters and configure Criticality visualization as well. To continue the exercise please go to [Configuration of the Object Page](../ex4/README.md)

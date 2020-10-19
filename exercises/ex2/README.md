@@ -147,8 +147,10 @@ In this step, you will configure a UI.PresentationVariant annotation. UI.Present
 ```
 *A presentation variant is used to define which table and chart will be displayed in the main content of the page.*
 
-## RUN THE APP
-Right click on webapp folder in the project explorer and choose Preview Application from the menu
+## Run the App
+Right click on webapp folder in the project explorer and choose Preview Application from the menu.
+The app loads in the popup that opens up. Type ‘EUR’ as the currency and click on ‘Go’.
+As one can see the filter bar is empty. We will create some content for it next.
 
 ## Summary
 You have successfuly annotated Chart & Table required for Analytical List Page. To continue the exercise please go to [Configuration of the Filters in Analytical List Page](../ex3/README.md)
