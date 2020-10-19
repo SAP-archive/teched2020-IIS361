@@ -291,8 +291,8 @@ In this step, you will define the criticality coloring to the visual filter bar 
 ## Run the App
 In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
 The app loads in the popup that opens up. Type ‘EUR’ as the currency and click on ‘Go’. Click on the ‘Compact filter’ mode in the header to display the compact filters.
-![Visual Filter Preview](../ex2/images/AppVisualFilterArea.png)
-![Compact Filter Preview](../ex2/images/AppCompactFilterArea.png)
+![Visual Filter Preview](../ex3/images/AppVisualFilterArea.png)
+![Compact Filter Preview](../ex3/images/AppCompactFilterArea.png)
 
 ## Summary
 You have successfully learned how to create Visual Filters and configure Criticality visualization as well. To continue the exercise please go to [Configuration of the Object Page](../ex4/README.md)
