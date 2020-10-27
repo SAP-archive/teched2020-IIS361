@@ -51,12 +51,8 @@ and select metadata.xml.
 
 ![](media/image21.png)
 
-(12)  
-
-In the Entity Selection drop down, select![](media/image22.png)  as
+(12) In the Entity Selection drop down, select![](media/image22.png)  as
 a main entity.
-
-.
 
 ![](media/image23.png)
 
@@ -81,6 +77,6 @@ default one.
 
 ![](media/image30.png)
 
-(18) Click **Finish**![](media/image31.png).
+(18) Click **Finish** ![](media/image31.png).
 
 ![](media/image32.png)
