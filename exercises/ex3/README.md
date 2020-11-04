@@ -15,8 +15,53 @@ You will learn to create compact and visual filters in the filter bar of the Ana
         <PropertyPath>Product</PropertyPath>
         <PropertyPath>MainProductCategory</PropertyPath>
         <PropertyPath>DeliveryCalendarQuarter</PropertyPath>
+        <PropertyPath>OrderDate</PropertyPath>
     </Collection>
 </Annotation>
+```
+## Configure Semantic Date
+
+In this step, you will see how to configure Semantic representation for date range filter fields. Semantic Date Range representation is supported for fields which are of type : "DateTime", with "Date" display type and have interval selection enabled. To have default semantic date range settings for **OrderDate** filter, add the following code snippet to your manifest.
+```json
+"sap.ui.generic.app": {
+    "pages": {
+        "AnalyticalListPage|Z_SEPMRA_SO_SALESORDERANALYSIS": {
+            "component" : {
+                "settings" : {
+                    "filterSettings": {
+                        "dateSettings":{
+                            "useDateRange": true
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```
+If you want to exclude any values from the default set of range values, make the following change. With this, all date range items with **"WEEK"** in the name will be excluded from the list.
+```json
+"sap.ui.generic.app": {
+    "pages": {
+        "AnalyticalListPage|Z_SEPMRA_SO_SALESORDERANALYSIS": {
+            "component" : {
+                "settings" : {
+                    "filterSettings": {
+                        "dateSettings":{
+                            "useDateRange": false,
+                            "fields" : {
+                                "OrderDate": {
+                                    "selectedValues" : "WEEK",
+                                    "exclude": true
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 ```
 
 ## Configure Visual Filters
@@ -297,6 +342,48 @@ The app loads in the popup that opens up. Type ‘EUR’ as the currency and cli
 
 
 ![Compact Filter Preview](../ex3/images/AppCompactFilterArea.png)
+
+## Shortcuts
+
+In this step, you will get acquainted with the Shortcuts that are available on Analtytical List Page.
+
+1. When the keyboard focus is on any filter field on the SmartFilterbar, Press **"Enter"** or **"Return"** to trigger Go / Search
+
+![Go On Compact Filter](../ex3/images/GO_CompactFilter.png)
+
+2. Switch over to the Visual Filter view. If the keyboard focus is on any element in the visual filter panel or on the entire visual filter, pressing **CTRL + Enter** (in Windows) or **CMD + Enter** (In Mac) triggers Go / Search
+
+![Go On Visual Filters](../ex3/images/GO_VisualFilter.png)
+
+3. When the focus is on anywhere in the app, if you press **SHIFT + CTRL + S** (in Windows) or **SHIFT + CMD + S** (in Mac), Share-ActionSheet opens near the Share button
+
+![Open Share ActionSheet](../ex3/images/Share.png)
+
+4. If the focus is anywhere inside the table cell, pressing **SHIFT + SPACE** selects the entire Row. This works when row selection is enabled in the table. To enable this, please add the table settings into the manifest as shown below
+```json
+"sap.ui.generic.app": {
+    "pages": {
+        "AnalyticalListPage|Z_SEPMRA_SO_SALESORDERANALYSIS": {
+            "component" : {
+                "settings" : {
+                    "tableSettings":{
+                        "multiSelect": true
+                    }
+                }
+            }
+        }
+    }
+}
+```
+![Select Table Row](../ex3/images/RowSelect.png)
+
+5. If the focus is anywhere on the table , pressing **CTRL + ,** (in Windows) or **CMD + ,** (in Mac) opens the Table Settings Dialog
+
+![Table Settings](../ex3/images/TableSettings.png)
+
+6. If the focus is anywhere on the table , pressing **SHIFT + CTRL + E** (in Windows) or **SHIFT + CMD + E** (in Mac) opens the Exprt to Excel dialog
+
+![Table Export to Excel](../ex3/images/TableSettings.png)
 
 ## Summary
 You have successfully learned how to create Visual Filters and configure Criticality visualization as well. To continue the exercise please go to [Configuration of the Object Page](../ex4/README.md)

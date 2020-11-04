@@ -35,6 +35,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1588179185365)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_Product"
@@ -86,6 +87,7 @@
 	"Quantity": 3,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1592472363124)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_Product"
@@ -137,6 +139,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1584749747647)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_Product"
@@ -188,6 +191,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1582600917635)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_Product"
@@ -239,6 +243,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1587348058488)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_Product"
@@ -290,6 +295,7 @@
 	"Quantity": 1,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1586015672706)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_Product"
@@ -341,6 +347,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1590832370294)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_Product"
@@ -392,6 +399,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1593282146063)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000040')/to_Product"
@@ -443,6 +451,7 @@
 	"Quantity": 3,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1580837566179)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_Product"
@@ -494,6 +503,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1589472860856)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_Product"
@@ -545,6 +555,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1588505784769)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000030')/to_Product"
@@ -596,6 +607,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1591736738279)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_Product"
@@ -647,6 +659,7 @@
 	"Quantity": 1,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1577872973618)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000007.2~0000000080')/to_Product"
@@ -698,6 +711,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
+	"OrderDate": "/Date(1584080590648)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000020')/to_Product"

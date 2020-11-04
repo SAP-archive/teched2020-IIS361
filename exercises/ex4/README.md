@@ -215,5 +215,12 @@ Save the annotation file by clicking the ‘Save’ from File Menu or pressing C
 In this step, you will preview the application. Right click on webapp and choose Preview Application from the menu (or refresh the tab containing the running app).
 Once the app loads, type ‘EUR’ as the currency and click on ‘Go'. Navigate to the ObjectPage by clicking on the navigation indicator ( ‘>’ at the end of a row) for a sales order item in the table.
 
+![Object Page Preview](../ex4/images/AppObjectPage.png)
 
-![Visual Filter Preview](../ex4/images/AppObjectPage.png)
+## Shortcuts
+
+In this step, you will get acquainted with the Shortcuts that are available on ObjectPage
+
+1. When the focus is on anywhere in the app, if you press **SHIFT + CTRL + S** (in Windows) or **SHIFT + CMD + S** (in Mac), Share-ActionSheet opens near the Share button
+
+![Open Share ActionSheet](../ex4/images/Share_OP.png)

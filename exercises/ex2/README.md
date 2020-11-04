@@ -147,6 +147,25 @@ In this step, you will configure a UI.PresentationVariant annotation. UI.Present
 ```
 *A presentation variant is used to define which table and chart will be displayed in the main content of the page.*
 
+## Chart Data Label
+
+To ensure that the content area chart comes up with a label indicating the measure value, you can add the following setting to your manifest
+```json
+"sap.ui.generic.app": {
+    "pages": {
+        "AnalyticalListPage|Z_SEPMRA_SO_SALESORDERANALYSIS": {
+            "component" : {
+                "settings" : {
+                    "chartSettings": {
+                        "showDataLabel": true
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
 ## Run the App
 Right click on webapp folder in the project explorer and choose Preview Application from the menu.
 The app loads in the popup that opens up. Type **‘EUR’** as the currency and click on ‘Go’.
@@ -157,6 +176,11 @@ As one can see the filter bar is empty. We will create some content for it next.
 
 
 ![ContentArea Preview](../ex2/images/AppContentArea.png)
+
+## Export Table content to Excel
+
+On the table toolbar, to right of the Settings (Gear) button, you will see the "Export to Excel" button. This newly added button enables the export of table data to a spreadsheet application, for example Microsoft Excel.
+Click on the Export Icon on the left side of the button to export the data directly. Click on the "drop - down" / "downward arrow" icon on the right to choose between **"Export"** and **"Export As"**. Export As option lets you give the name for the exported file.
 
 ## Summary
 You have successfuly annotated Chart & Table required for Analytical List Page. To continue the exercise please go to [Configuration of the Filters in Analytical List Page](../ex3/README.md)
