@@ -1,4 +1,4 @@
-Exercise 3 -- Configuring Filters in Analytical List Page
+Exercise 3 -- Configure Filters in Analytical List Page
 =========================================================
 
 In this exercise, you will define the filter area of the Analytical List Page.
