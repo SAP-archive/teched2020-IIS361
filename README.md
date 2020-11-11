@@ -23,8 +23,18 @@ Exercise details can be found below. Please follow the step wise instruction for
 
 - [Getting Started](exercises/ex0/README.md)
 - [Setting up Fiori element project](exercises/ex1/README.md)
-- [Configuration of Content for Analytical List Page](exercises/ex2/README.md)
-- [Configuration of the Filters in Analytical List Page](exercises/ex3/README.md)
+- [Exercise 2 – Configure Content Area of Analytical List Page](exercises/ex2/README.md)
+  - [Exercise 2.1 Configuring Table](exercises/ex2#exercise-21-configuring-table)
+  - [Exercise 2.2 Configuring Chart](exercises/ex2#exercise-22-configuring-chart)
+  - [Exercise 2.3 Configuring Presentation Variant](exercises/ex2#exercise-23-configuring-presentation-variant)
+  - [Exercise 2.4 Start the Application Preview](exercises/ex2#exercise-24-start-the-application-preview)
+- [Exercise 3 – Configuring Filters in Analytical List Page](exercises/ex3#exercise-3-configuring-filters-in-analytical-list-page)
+  - [Exercise 3.1 Configuring Comact Filter](exercises/ex3#exercise-3.1-configuring-comact-filter)
+  - [Exercise 3.2 Configuring Visual Filter with Line Chart](exercises/ex3#exercise-3.3-configuring-visual-filter-with-bar-chart)
+  - [Exercise 3.3 Configuring Visual Filter with Bar Chart](exercises/ex3#exercise-33-configure-editable-object-page-header)
+  - [Exercise 3.4 Configuring Semantic Coloring](exercises/ex3#exercise-3.4-configuring-semantic-coloring)
+  - [Exercise 3.5 Start the Application Preview](exercises/ex3##exercise-3.5-start-the-application-preview)
+
 - [Configuration of the Object Page](exercises/ex4/README.md)
 
 ## License
