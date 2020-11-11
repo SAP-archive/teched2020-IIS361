@@ -19,7 +19,7 @@ You will need to have a computer with Internet access, a browser (preferably Goo
 
 ## Exercises
 
-Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise 
+Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise.
 Wish you all the best.
 
 - [Getting Started](exercises/ex0#getting-started---setting-up-your-development-environment)
