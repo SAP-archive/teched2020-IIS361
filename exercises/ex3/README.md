@@ -245,7 +245,7 @@ In this step, you will define the criticality coloring to the visual filter bar 
 
 At this point you have configured the semantic coloring for the visual filter with the Line chart.
 
-Exercise 3.5 Start the Application Preview
+Exercise 3.5 Starting the Application Preview
 ------------------------------------------
 
 In this exercise, you will start the preview of the Analytical List Page to view the filters you just configured.
