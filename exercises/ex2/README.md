@@ -112,6 +112,7 @@ In this exercise, you will configure the chart to be displayed in the Analytical
 (15) Click **Apply**. UI.Chart annotation is added to your local annotation file as configured in the code snippet.
 
 **Exercise 2.3 Configuring Presentation Variant**
+-------------------------------------------------
 
 In this exercise, you will configure a UI.PresentationVariant annotation that is used to display the main content of the Analytical List Page. Here you will assign the chart and table created earlier in this exercise as visualization artifacts and define the sorting order. To do so, you will use the step 2 of the Add interactive chart guide.
 
