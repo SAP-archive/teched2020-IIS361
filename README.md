@@ -21,8 +21,14 @@ You will need to have a computer with Internet access, a browser (preferably Goo
 
 Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise Wish you all the best
 
-- [Getting Started](exercises/ex0/README.md)
-- [Setting up Fiori element project](exercises/ex1/README.md)
+- [Getting Started](exercises/ex0#getting-started---setting-up-your-development-environment)
+  - [Access SAP Business Application Studio (TechEd 2020 live workshop registered participants only)](exercises/ex0#access-sap-business-application-studio-teched-2020-live-workshop-registered-participants-only)
+  - [Set up Business Application Studio in an SAP Cloud Platform Trial Account](exercises/ex0#set-up-business-application-studio-in-an-sap-cloud-platform-trial-account)
+    - [New Trial Users](exercises/ex0#new-trial-users)
+    - [Existing Trial Users](exercises/ex0#existing-trial-users)
+    - [Access SAP Business Application Studio](exercises/ex0#access-sap-business-application-studio)
+  - [Create development space](exercises/ex0#create-dev-space)
+  - [Get the sample scenario](exercises/ex0#get-the-sample-scenario)
 - [Exercise 1 - Generate a Fiori elements application](exercises/ex1#exercise-1---generating-a-fiori-elements-app)
   - [Exercise 1.1 Using the UI Generator](exercises/ex1#exercise-11-using-the-ui-generator)
   - [Exercise 2.2 Configuring Chart](exercises/ex2#exercise-22-configuring-chart)
