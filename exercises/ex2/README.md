@@ -1,4 +1,4 @@
-Exercise 2 - Configuring Content Area in Analytical List Page
+Exercise 2 - Configure Content Area in Analytical List Page
 ============================================================
 
 In this exercise, you will define the content area of the Analytical List Page with Fiori Guided Development. For this, you first have to open the Guided Development tool.
