@@ -84,7 +84,7 @@ When you choose to connect to an OData service or SAP system in step (7), this s
 (18) Expand the folder
 **teched2020-IIS361-\>exercises-\>ex1-\>resources** 
 
-(19)  Expand the newly created project folder **salesorderanalysis-\>webapp-\>localService**. Drag the **mockdata **folder to the localService folder in your generated project.
+(19)  Expand the newly created project folder **salesorderanalysis-\>webapp-\>localService**. Drag the **mockdata** folder to the localService folder in your generated project.
 
 Summary
 -------
