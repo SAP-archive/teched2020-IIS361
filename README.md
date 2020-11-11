@@ -19,7 +19,8 @@ You will need to have a computer with Internet access, a browser (preferably Goo
 
 ## Exercises
 
-Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise Wish you all the best
+Exercise details can be found below. Please follow the step wise instruction for a successful completeion of the exercise 
+Wish you all the best.
 
 - [Getting Started](exercises/ex0#getting-started---setting-up-your-development-environment)
   - [Access SAP Business Application Studio (TechEd 2020 live workshop registered participants only)](exercises/ex0#access-sap-business-application-studio-teched-2020-live-workshop-registered-participants-only)
