@@ -43,7 +43,7 @@ Wish you all the best.
   - [Exercise 3.2 Configuring Visual Filter with Line Chart](exercises/ex3#exercise-32-configuring-visual-filter-with-line-chart)
   - [Exercise 3.3 Configuring Visual Filter with Bar Chart](exercises/ex3#exercise-33-configuring-visual-filter-with-bar-chart)
   - [Exercise 3.4 Configuring Semantic Coloring](exercises/ex3#exercise-34-configuring-semantic-coloring)
-- [Exercise 4 - Preparing for translation](exercises/ex4/README.md)
+- [Exercise 4 - Preparing texts for translation](exercises/ex4/README.md)
 - [Exercise 5 - Configuring Object Page](exercises/ex5/README.md)
 
 ## License
