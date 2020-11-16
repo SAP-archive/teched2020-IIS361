@@ -1,4 +1,4 @@
-Exercise 4 -- Preparing texts for translation
+Exercise 4 - Preparing texts for translation
 =============================================
 
 In this exercise, you will generate the translation text keys for the
