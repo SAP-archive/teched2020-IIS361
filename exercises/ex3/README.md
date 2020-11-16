@@ -149,7 +149,8 @@ To start, repeat the steps (9) and (10) above to start the guide **Add a new vis
 
 ![](media/image21.png)
 
-(20)In **step 1** of the guide, use the following values to create a chart as described in [Exercise 3.2 Configuring Visual Filter with Line Chart](#exercise-3.2-configuring-visual-filter-with-line-chart) steps
+(20)In **step 1** of the guide, use the following values to create a chart as described in [Exercise 
+Configuring Visual Filter with Line Chart](#exercise-32-configuring-visual-filter-with-line-chart) steps
 (11)-(13).
 
   |**Field**             |**Value**
@@ -203,7 +204,7 @@ In this step, you will define the criticality coloring to the visual filter bar 
 
 ![](media/image25.png)
 
-(23) In Guidede Development, expand the guide **Add semantic coloring for visual filter  ** ![](media/image26.png)
+(23) In Guidede Development, expand the guide **Add semantic coloring for visual filter** ![](media/image26.png)
 
 ![](media/image27.png)
 
@@ -233,7 +234,8 @@ In this step, you will define the criticality coloring to the visual filter bar 
 
 ![](media/image30.png)
 
-(28) In **Step 2**, update the chart you defined for the visual filter in [Exercise 3.2 Configuring Visual Filter with Line
+(28) In **Step 2**, update the chart you defined for the visual filter in [Exercise 
+Configuring Visual Filter with Line
 Chart](../ex3#exercise-32-configuring-visual-filter-with-line-chart) as follows:
 
   |**Field**                                |**Value**
