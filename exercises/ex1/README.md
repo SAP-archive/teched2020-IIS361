@@ -62,11 +62,13 @@ List Report page.
 
 ![](media/image14.png)
 
-(14) Choose an App Title, for example **Sales Order Analysis**
+(14) Enter **salesorderanalysis** as module name
 
-(15) Enter **soa** as namespace
+(15) Choose an App Title, for example **Sales Order Analysis**
 
-(16) Enter **salesorderanalysis** as module name
+(16) Enter **soa** as a namespace
+
+
 
 ![](media/image15.png)
 
