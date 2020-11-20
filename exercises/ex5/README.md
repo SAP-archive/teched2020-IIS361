@@ -5,7 +5,7 @@ In this exercise, you will define the header and content for the Object
 page using the Guided Development tool. Open this tool as in [Exercise 2
 -- Configuring Content Area of Analytical List Page](../ex2#exercise-2---configure-content-area-in-analytical-list-page).
 
-Exercise 5.1 Define Header Information
+Exercise 5.1 Defining Header Information
 --------------------------------------
 
 In this exercise, you will define the information that will be displayed
