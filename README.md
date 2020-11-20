@@ -45,6 +45,9 @@ Wish you all the best.
   - [Exercise 3.4 Configuring Semantic Coloring](exercises/ex3#exercise-34-configuring-semantic-coloring)
 - [Exercise 4 - Preparing texts for translation](exercises/ex4/README.md)
 - [Exercise 5 - Configuring Object Page](exercises/ex5/README.md)
+  - [Exercise 5.1 Defining Header Information](exercises/ex5#exercise-51-defining-header-information)
+  - [Exercise 5.2 Displaying Data Points in Object Page Header](exercises/ex5#exercise-52-displaying-data-points-in-object-page-header)
+  - [Exercise 5.3 Adding Field Group Sections to the Object Page](exercises/ex5#exercise-53-adding-field-group-sections-to-the-object-page)
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
