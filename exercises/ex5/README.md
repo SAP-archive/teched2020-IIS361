@@ -252,6 +252,14 @@ the Analytical list page.
 
 ![](media/image24.png)
 
+Exercise 5.4 Using Shortcuts
+---------------------------------------------------------
+
+In this exercise, you will get acquainted with the shortcuts that are available on Object page. 
+When the focus is anywhere in the app, press **SHIFT + CTRL + S** (Windows) or **SHIFT + CMD + S** (Mac) to open Share-ActionSheet near the Share button.
+
+![](media/image25.png)
+
 Summary
 -------
 
