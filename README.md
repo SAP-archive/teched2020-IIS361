@@ -48,6 +48,7 @@ Wish you all the best.
   - [Exercise 5.1 Defining Header Information](exercises/ex5#exercise-51-defining-header-information)
   - [Exercise 5.2 Displaying Data Points in Object Page Header](exercises/ex5#exercise-52-displaying-data-points-in-object-page-header)
   - [Exercise 5.3 Adding Field Group Sections to the Object Page](exercises/ex5#exercise-53-adding-field-group-sections-to-the-object-page)
+  - [Exercise 5.4 Using Shortcuts](exercises/ex5#exercise-54-using-shortcuts)
 
 ## How to obtain support
 
