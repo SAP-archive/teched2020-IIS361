@@ -1,162 +1,189 @@
-# Configuration of Content for Analytical List Page
-In this exercise, we will create the main page for the application based on Analytical List Page floorplan
+Exercise 2 - Configuring Content Area of Analytical List Page
+==============================================================
 
-## Steps for creating UI annotations
+In this exercise, you will define the content area of the Analytical List Page with Fiori Guided Development. For this, you first have to open the Guided Development tool.
 
-### Modify the annotation.xml
-1. To start, double click on the **'annotation.xml'** file in the 'annotations' folder under 'webapp' to open
+![](media/image1.png)
 
-2. Place your curser after the schema definition and press ENTER
+(1) In the **Explorer** pane, right-click on the **webapp** ![](media/image2.png) folder.
 
-3. In the new line, trigger code completion by pressing CTRL/CMD + SPACE, which displays 'Annotations' as the available option. Choose it by pressing ENTER
+(2) Choose **SAP Fiori tools - Open Guided Development** .
 
-4. Add the annotation target by Press CTRL/CMD + SPACE to open a list of available targets. Use Up/Down arrow to choose from the list or start typing in the entity type name - "Z_SEPMRA_SO_SALESORDERANALYSISType" and select from the filtered list
+![](media/image3.png)
 
-5. Save the annotation file by clicking the ‘Save’ icon or pressing CTRL+S. It should look like below
-```xml
-<Annotations Target="TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType">    
+(3) (Optional) Double-click on the **Guided Development -
+salesorderanalysis** tab to get more editing space by temporarily hiding the **Explorer** pane.
 
-</Annotations>
-```
+Exercise 2.1 Configuring Table
+------------------------------
 
-### Configure Table
-In this step, you will configure the table & columns displayed in the table of the Analytical List Page. UI annotation ‘LineItem’ is used to represent the table, with DataField Records representing the columns. Below steps will guide you through this activity
+In this exercise, you will configure the columns displayed in the table of the Analytical List Page. UI annotation 'LineItem' is used to represent the table, with DataField records representing the columns. As you will use the Guided Development tool, you do not need to add this annotation manually, just follow the steps below to configure the table and the respective annotation will be added to or updated in the local annotation file when you choose apply.
 
-1. Add an Annotation Term **UI.LineItem** to the Annotations for Target "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType"
+![](media/image4.png)
 
-2. UI.LineItem is a Collection of Records. Each Record is of type **"UI.DataField"** (related)
+(4) To find the guides related to tables, type **table** in the search
+field
 
-3. Add Record of Type "UI.DataField"
+![](media/image5.png)
 
-4. Add PropertyValue annotation to the Record & set the Property attribute to "Value". Set the Path attribute **"DeliveryCalendarYear"**
+(5) Scroll to the Analytical List Page group and expand the guide  **Add a new column to a table** ![](media/image6.png).
 
-5. Come to new line after the first DataField Record is closed and repeat steps (3) - (4) to add columns for properties : **"DeliveryCalendarMonth"**, **"SalesOrder"**, **"SalesOrderItem"**, **"Product"**, **"MainProductCategory"**, **"SoldToParty"**, **"Quantity"**, **"NetAmount"**
+![](media/image7.png)
 
-6. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
-```xml
-<Annotation Term="UI.LineItem" >
-    <Collection>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="DeliveryCalendarYear"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="DeliveryCalendarMonth"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="SalesOrder"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="SalesOrderItem"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="Product"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="MainProductCategory"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="SoldToParty"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="Quantity"/>
-        </Record>
-        <Record Type="UI.DataField">
-            <PropertyValue Property="Value" Path="NetAmount"/>
-        </Record>
-    </Collection>
-</Annotation>
-```
+(6) Read the description and click **Start Guide**.
 
-### Configure Chart
-In this step, you will configure the chart to be displayed in the analytical list page. Annotation Term "UI.Chart" is used to Visualize the App result in Chart format. You can configure different measures & dimensions of the Chart & as well as the chart type
+This simple guide contains just one step adding a column (DataField record) to your table (LineItem). You can repeat this step as many times as needed to add all the columns to the table. If the table (LineItem) is not yet defined in your app, it will be created along with the first column.
 
-1. Add Annotation Term **"UI.Chart"** under Annotation targeting "TECHED_ALP_SOA_SRV.Z_SEPMRA_SO_SALESORDERANALYSISType" (You can alss CTRL/CMD + SPACE to open the option list)
+![](media/image8.png)
 
-2. Add a PropertyValue **ChartType** & set EnumMember as **"UI.ChartType/Column"**
+(7) In the **Entity Type** field, choose your main entity type **Z_SEPMRA_SO_SALESORDERANALYSIS**.
 
-3. Add a PropertyValue **Title** & set String attribute as **"Revenue by Customer"**
+![](media/image9.png)
 
-4. Add a PropertyValue **Description** & set String attribute as **"Net Revenue by Customer"**
+(8) In the **Property** field, choose **Delivery Calendar Year** as your first column content. The code snippet is adjusted accordingly.
 
-5. Add a PropertyValue **Measure** & set PropertyPath attribute as **"NetAmount"**
+![](media/image10.png)
 
-6. Add a PropertyValue **Dimensions**. Add Collection as child & add two PropertyPath, one should be **"SoldToParty"** and the other should be **"DeliveryCalendarYear"**
+(9) Click **Apply**. Annotation UI.LineItem is added to your local annotation file as configured in the code snippet. This file gets open next to the Guided Development tool.
 
-7. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
-```xml
-<Annotation Term="UI.Chart" >
-    <Record Type="UI.ChartDefinitionType">
-        <PropertyValue Property="ChartType" EnumMember="UI.ChartType/Column"/>
-        <PropertyValue Property="Title" String="Revenue by Customer"/>
-        <PropertyValue Property="Description" String="Net Revenue by Customer"/>
-        <PropertyValue Property="Measures">
-            <Collection>
-                <PropertyPath>NetAmount</PropertyPath>
-            </Collection>
-        </PropertyValue>
-        <PropertyValue Property="Dimensions">
-            <Collection>
-                <PropertyPath>SoldToParty</PropertyPath>
-                <PropertyPath>DeliveryCalendarYear</PropertyPath>
-            </Collection>
-        </PropertyValue>
-    </Record>
-</Annotation>
-```
+**Note**: If your selected entity type was already annotated with a UI.LineItem, the configured DataField record (column) would be added to it and a new UI.LineItem would not be created.
 
-### Configure Presentation Variant
-In this step, you will configure a UI.PresentationVariant annotation. UI.PresentationVariant allows you to configure the visualization artifacts, Sortorder, Initial expansion level in case of a grouped table,...etc. You can create multiple such presentation variants and select one of the variant to be loaded
+![](media/image11.png)
 
-1. In the same level as UI.Chart/UI.LineItem annotation add **UI.PresentationVariant** (You can press CTRL/CMD + SPACE to get the available options autocomplete)
+Now repeat steps **(8)** and **(9)** to add the records (columns) for the following properties:
 
-2. As a child of the Record annotation, select **Text** property and add string value as **"Default"**
+-   DeliveryCalendarMonth
 
-3. Add **SortOrder** property and set PropertyPath as **"NetAmount"**
+-   SalesOrder
 
-4. As child to SortOrder property, add **Descending** property and set Bool value as **"true"**
+-   SalesOrderItem
 
-5. Add **IncludeGrandTotal** property and set the Bool value as **"false"**
+-   Product
 
-6. Add **InitialExpansionLevel** property and set Int value as **"1"**
+-   MainProductCategory
 
-7. Add **Visualizations** property & add the 2 annotation paths, **@UI.LineItem** for table and **@UI.Chart** for Chart
+-   SoldToParty
 
-8. Save the annotation file by clicking the ‘Save’ from File Menu or pressing CTRL/CMD + S. Your final annotation will look like below
-```xml
-<Annotation Term="UI.PresentationVariant">
-    <Record Type="UI.PresentationVariantType">
-        <PropertyValue Property="Text" String="Default"/>
-        <PropertyValue Property="SortOrder">
-            <Collection>
-                <Record Type="Common.SortOrderType">
-                    <PropertyValue Property="Property" PropertyPath="NetAmount"/>
-                    <PropertyValue Property="Descending" Bool="true"/>
-                </Record>
-            </Collection>
-        </PropertyValue>
-        <PropertyValue Property="IncludeGrandTotal" Bool="false"/>
-        <PropertyValue Property="InitialExpansionLevel" Int="1"/>
-        <PropertyValue Property="Visualizations">
-            <Collection>
-                <AnnotationPath>@UI.LineItem</AnnotationPath>
-                <AnnotationPath>@UI.Chart</AnnotationPath>
-            </Collection>
-        </PropertyValue>
-    </Record>
-</Annotation>
-```
-*A presentation variant is used to define which table and chart will be displayed in the main content of the page.*
+-   Quantity
 
-## Run the App
-Right click on webapp folder in the project explorer and choose Preview Application from the menu.
-The app loads in the popup that opens up. Type **‘EUR’** as the currency and click on ‘Go’.
-As one can see the filter bar is empty. We will create some content for it next.
+-   NetAmount
+
+![](media/image12.png)
+
+(11) When the records for all property are added to your LineItem, click **Exit Guide** to get back to the list of available guides.
+
+Exercise 2.2 Configuring Interactive Chart 
+------------------------------------------
+
+In this exercise, you will configure the chart to be displayed in the Analytical List Page. Annotation Term \"UI.Chart\" is used to visualize the data in the chart format. As you will use the Guided Development tool, you do not need to add this annotation manually, just follow the steps below to configure the chart and the respective annotation will be added to or updated in the local annotation file when you choose apply.
+
+![](media/image13.png)
+
+(11) Filter guides by **chart** in the search field.
+ 
+(12)  Expand the guide**Add an interactive chart** ![](media/image14.png) in the **Analytical List Page** group. 
+
+![](media/image15.png)
+
+(13) Click **Start Guide** .
+
+![](media/image16.png)
+
+(14) Enter the following values:
+
+ | **Field**             |**Value**
+ | --------------------- |----------------------------------
+ | Entity Type           |SEPMRA_SO_SALESORDERANALYSISType
+ | Chart Title           |Revenue by Customer
+ | Chart Description     |Net Revenue by Customer
+ | ChartType             |Column
+ | Measure property      |NetAmount
+ | Dimensions Property   |SoldToParty
+ | Dimensions Property   |DeliveryCalendarYear
+ 
+ 
+ 
+ 
+![](media/image17.png)
+
+(15) Click **Apply**. UI.Chart annotation is added to your local
+annotation file as configured in the code snippet.
+
+Exercise 2.3 Configuring Presentation Variant
+------------------------------------------------------------
+In this exercise, you will configure a UI.PresentationVariant annotation that is used to display the main content of the Analytical List Page. Here you will assign the chart and table created earlier in this exercise as visualization artifacts and define the sorting order. To do so, you will use the step 2 of the Add interactive chart guide.
+
+![](media/image18.png)
+
+(16) Click **Step 2: Configure a UI.PresentationVariant annotation term**.
+
+![](media/image19.png)
+
+(17) Enter the following values:
+
+  |**Field**                 |**Value**
+  |------------------------- |----------------------------------
+  |Entity Type               |SEPMRA_SO_SALESORDERANALYSISType
+  |Sort Order Property       |NetAmount
+  |Sort Order Descending?    |true
+  |Include Grand Total?      |false
+  |Initial Expansion Level   |1
 
 
-![App Preview](../ex2/images/AppPreview.png)
 
 
-![ContentArea Preview](../ex2/images/AppContentArea.png)
+![](media/image20.png)
 
-## Summary
-You have successfuly annotated Chart & Table required for Analytical List Page. To continue the exercise please go to [Configuration of the Filters in Analytical List Page](../ex3/README.md)
+(18) Click **Apply**. UI.PresentationVariant annotation is added to your local annotation file as configured in the code snippet.
+
+![](media/image21.png)
+
+(19) The content area for the Analytical List Page is configured. Click **Exit Guide**.
+
+Exercise 2.4 Starting the Application Preview
+------------------------------------------
+
+In this exercise, you will start the preview of the Analytical List Page and view the content you just configured. 
+
+Before you perform the steps below, make sure that the pop-ups from the SAP Business Application Studio are allowed in your browser.
+
+![](media/image22.png)
+
+(20) To show the hidden **Explorer pane**, double-click on the **Guided Development** tab.
+
+![](media/image23.png)
+
+(21) In the Explorer pane, right-click on the webapp folder.
+
+(22) In the context menu, click **Preview Application**.
+
+![](media/image24.png)
+
+(23) Click **Yes** to allow exposing the port 8080. This is required to show the preview.
+
+![](media/image25.png)
+
+(24) Click **Yes** again to allow exposing the second port. Application preview will open in the next tab.
+
+![](media/image26.png)
+
+(25) in the **Adapt Filters** pop-up, enter **EUR** in the **Currency** field.
+
+(26) Click **Go.**
+
+The content area of the page shows the chart and table you created. The data is pre-filtered by the currency value you entered in the pop-up with the required filter field.
+
+The filter bar area is empty as at this point no visual filters are defined. You will specify them in the next exercise.
+
+![](media/image27.png)
+
+You can click the button **Compact Filter** ![](media/image28.png) to view the compact filter bar with the only required field available by default. You will add more filter fields in the next exercise.
+
+![](media/image29.png)
+
+Summary
+-------
+
+You have successfuly annotated the main entity type of your app with UI.LineItem, UI.Chart and UI.PresentationVariant annotations required to display content area of Analytical List Page. 
+
+Continue to [Exercise 3 - Configuring Filters in Analytical List Page](../ex3/README.md)
