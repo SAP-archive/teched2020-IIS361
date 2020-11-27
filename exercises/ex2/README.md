@@ -81,7 +81,7 @@ In this exercise, you will configure the chart to be displayed in the Analytical
 
 (11) Filter guides by **chart** in the search field.
  
-(12)  Expand the guide**Add an interactive chart** ![](media/image14.png) in the **Analytical List Page** group. 
+(12)  Expand the guide **Add an interactive chart** ![](media/image14.png) in the **Analytical List Page** group. 
 
 ![](media/image15.png)
 
@@ -97,7 +97,7 @@ In this exercise, you will configure the chart to be displayed in the Analytical
  | Chart Title           |Revenue by Customer
  | Chart Description     |Net Revenue by Customer
  | ChartType             |Column
- | Measure property      |NetAmount
+ | Measures property      |NetAmount
  | Dimensions Property   |SoldToParty
  | Dimensions Property   |DeliveryCalendarYear
  
@@ -138,48 +138,90 @@ In this exercise, you will configure a UI.PresentationVariant annotation that is
 
 ![](media/image21.png)
 
-(19) The content area for the Analytical List Page is configured. Click **Exit Guide**.
+(19) Click **Exit Guide**.
 
-Exercise 2.4 Starting the Application Preview
-------------------------------------------
+Exercise 2.4 Configuring Chart Data Label
+-----------------------------------------
 
-In this exercise, you will start the preview of the Analytical List Page and view the content you just configured. 
+At this point, the required content for the Analytical List Page is configured and you could start the preview as described in the Exercise 2.5 Starting Application preview. But before you do so, let's enhance the chart view with the data labes indicating the measure values. For this the following manifest setting needs to be defined for your Analytical List Page:
 
-Before you perform the steps below, make sure that the pop-ups from the SAP Business Application Studio are allowed in your browser.
+```
+"chartSettings": {
+
+    "showDataLabel": true
+
+}
+```
+However, as there is a dedicated guide in the Guided Development tool, there is no need to do this manually.
 
 ![](media/image22.png)
 
-(20) To show the hidden **Explorer pane**, double-click on the **Guided Development** tab.
-
-![](media/image23.png)
-
-(21) In the Explorer pane, right-click on the webapp folder.
-
-(22) In the context menu, click **Preview Application**.
+(20) In Guided Development tool, expand the guide **Enable data label in smart charts and KPI cards** ![](media/image23.png).
 
 ![](media/image24.png)
 
-(23) Click **Yes** to allow exposing the port 8080. This is required to show the preview.
+(21) Choose **Start Guide**.
+
+**Note**: As you do not need to make any changes to the annotation file in this exercise, you can close the annotation.xml file to get more space.
 
 ![](media/image25.png)
 
-(24) Click **Yes** again to allow exposing the second port. Application preview will open in the next tab.
+(22) In **Page field**, choose the first page in your app **AnalyticalListPage_Z_SEPMRA_SO_SALESORDERANALYSIS**.
 
 ![](media/image26.png)
 
-(25) in the **Adapt Filters** pop-up, enter **EUR** in the **Currency** field.
-
-(26) Click **Go.**
-
-The content area of the page shows the chart and table you created. The data is pre-filtered by the currency value you entered in the pop-up with the required filter field.
-
-The filter bar area is empty as at this point no visual filters are defined. You will specify them in the next exercise.
+(23) Click **Apply**.
 
 ![](media/image27.png)
 
-You can click the button **Compact Filter** ![](media/image28.png) to view the compact filter bar with the only required field available by default. You will add more filter fields in the next exercise.
+(24) A .json file describing the page settings in a compact and technology independent notation opens to the right and the new showDataLabel property is inserted. Any update to this transient file is automatically synchronized with the **webapp/manifest.json** of your application on save.
+As auto-save is enabled by default, you do not need to save it manually and can close the .json file now.
+
+![](media/image28.png)
+
+(25) Click **Exit Guide**.
+
+Exercise 2.5 Starting Application Preview
+-----------------------------------------
+In this exercise, you will start the preview of the Analytical List Page to view the content you just configured. Before you perform the steps below, make sure that the pop-ups from the SAP Business Application Studio are allowed in your browser.
 
 ![](media/image29.png)
+
+(26) To show the Explorer pane, double-click on the tab **Guided Development - salesorderanalysis**.
+
+![](media/image30.png)
+
+(27) In the **Explorer** pane, right-click on the **webapp** folder.
+
+(28) In the context menu, click **Preview Application**.
+
+![](media/image31.png)
+
+(29) In the pop-up message, click **Yes** to allow exposing the port.
+
+![](media/image32.png)
+
+(30) Click **Yes** again to allow exposing the second port. 
+Application preview will open in the next tab.
+
+![](media/image33.png)
+
+(31) in the **Adapt Filters** pop-up, enter **EUR** in the **Currency** field.
+
+(32) Click **Go**.
+
+![](media/image34.png)
+The content area of the page displays the chart and table you created. They display the data pre-filtered by the currency value you entered in the pop-up with the required filter field.
+
+Data labes indicating the measure values are displayed above each chart column.
+
+The filter bar area is empty as at this point no visual filters are defined. You will specify them in the next exercise.
+
+
+
+(33) You can click the button **Compact Filter** ![](media/image35.png) to view the compact filter bar with the only required field available by default. You will add visual filters and additional compact filter fields in the next exercise.
+
+![](media/image36.png)
 
 Summary
 -------
