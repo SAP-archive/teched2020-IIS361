@@ -329,6 +329,7 @@
 					sap:label="Quantity Unit" sap:semantics="unit-of-measure"/>
 				<Property Name="QuantityUnitT" Type="Edm.String" MaxLength="10" sap:attribute-for="QuantityUnit" sap:label="Quantity Unit"
 					sap:quickinfo="Quantity Unit Name"/>
+				<Property Name="OrderDate" Type="Edm.DateTime" sap:label="Order Date" Precision="0" sap:display-format="Date" sap:filter-restriction="interval" />
 				<NavigationProperty Name="to_Product" Relationship="TECHED_ALP_SOA_SRV.assoc_CE66EB25463EF61F81E06E2C9A6C48C3"
 					FromRole="FromRole_assoc_CE66EB25463EF61F81E06E2C9A6C48C3" ToRole="ToRole_assoc_CE66EB25463EF61F81E06E2C9A6C48C3"/>
 				<NavigationProperty Name="to_SalesOrder" Relationship="TECHED_ALP_SOA_SRV.assoc_BA680A6D9D6C06FE64404E4FDFBE62D2"
