@@ -68,3 +68,8 @@ the entry you chose in the annotation file.
 the text reference ![](media/image12.png) and press **ALT+F12**.
 
 ![](media/image13.png)
+
+Summary
+--------
+You have successfuly substituted the hard coded texts in your annotation file with the references to the generated text keys. Now your Analytical List Page is prepared for translation.
+Continue to [Exercise 5 - Configuring the Second Page (Object Page)](../ex5/README.md)
