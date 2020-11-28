@@ -424,7 +424,7 @@ At this point you have configured the semantic coloring for the visual filter wi
 
 ![](media/image40.png)
 
-Exercise 5.4 Using Shortcuts
+Exercise 3.6 Using Shortcuts
 ----------------------------
 
 In this step, you will get acquainted with the shortcuts that are available in Analtytical List Page.
