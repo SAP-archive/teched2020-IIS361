@@ -89,5 +89,8 @@ When you choose to connect to an OData service or SAP system in step (7), this s
 Summary
 -------
 
-You have successfuly generated a Fiori elements application based on the  Analytical List Page and Object Page floorplans. In the next exercise, you will configure the content of the Alalytical List Page. 
-Continue to [Exercise 2 -- Configuring Content Area of Analytical List Page](../ex2/README.md)
+You have generated a Fiori elements application based on the Analytical List Page and Object Page floorplans. 
+
+**Note**: you can compare the contents of the generated **webapp** folder with the solutions we prepared for you in **home-\>user-\>projects-\>teched2020-IIS361-\>exercises-\>ex1-\>solutions_ex1**. The node_modues folder contains the modules needed for fiori tools used for editing and previewing your application with Fiori tools. Its contents can be generated any time by running the command `npm install` on the application folder.
+
+In the next exercise, you will configure the content of the Alalytical List Page. Continue to [Exercise 2 -- Configuring Content Area of Analytical List Page](../ex2/README.md)
