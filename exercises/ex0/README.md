@@ -1,6 +1,6 @@
 
 **Getting Started - Setting up your development environment**
----------------------------------------------------------------------------------
+============================================
 
 Welcome to the workshop **Create Analytical SAP Fiori Apps Quickly and
 Efficiently**.
