@@ -71,5 +71,8 @@ the text reference ![](media/image12.png) and press **ALT+F12**.
 
 Summary
 --------
-You have successfuly substituted the hard coded texts in your annotation file with the references to the generated text keys. Now your Analytical List Page is prepared for translation.
-Continue to [Exercise 5 - Configuring the Second Page (Object Page)](../ex5/README.md)
+You have successfuly substituted the hard coded texts in your annotation file with the references to the generated text keys. The generated key/value paris for these texts are stored in **i18n.properties** file inside the folder **salesorderanalysis\>webapp-\>i18n** Now your Analytical List Page is prepared for translation. 
+
+**Note**: You can compare the contents of your **i18n.properties** file with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>i18n**, right-click on the **i18n.properties** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex4-\>solutions_ex4-\>webapp-\>i18n**, right-click on the **i18n.properties** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. 
+
+In the next exercise, you will configure content for the second page of your application - Object Page. Continue to [Exercise 5 - Configuring the Second Page (Object Page)](../ex5/README.md)
