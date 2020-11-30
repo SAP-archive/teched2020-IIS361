@@ -442,5 +442,4 @@ Press **Enter** or **Return** to trigger Go / Search action.
 Summary
 -------
 
-You have learned how to create Visual Filters and define the semantic coloring for its elements. In the next exercise, you will prepare for translation the text you defined for UI elements. Continue to  Exercise
-4 - Preparing texts for translation.
+You have learned how to create Visual Filters and define the semantic coloring for its elements. In the next exercise, you will prepare for translation the text you defined for UI elements. Continue to  Exercise 4 - Preparing texts for translation [Exercise 4 - Preparing texts for translation](../ex4/README.md).
