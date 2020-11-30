@@ -1,0 +1,73 @@
+[{
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Systems')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Systems')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "Computer Systems",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Systems')/to_Category"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Components')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Components')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "Computer Components",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Computer%20Components')/to_Category"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Printers%20%26%20Scanners')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Printers%20%26%20Scanners')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "Printers & Scanners",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Printers%20%26%20Scanners')/to_Category"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Software')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Software')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "Software",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Software')/to_Category"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('TV%2C%20Video%20%26%20HiFi')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('TV%2C%20Video%20%26%20HiFi')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "TV, Video & HiFi",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('TV%2C%20Video%20%26%20HiFi')/to_Category"
+		}
+	}
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Smartphones%20%26%20Tablets')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Smartphones%20%26%20Tablets')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_I_ProductMainCategoryType"
+	},
+	"MainProductCategory": "Smartphones & Tablets",
+	"to_Category": {
+		"__deferred": {
+			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_I_ProductMainCategory('Smartphones%20%26%20Tablets')/to_Category"
+		}
+	}
+}]
