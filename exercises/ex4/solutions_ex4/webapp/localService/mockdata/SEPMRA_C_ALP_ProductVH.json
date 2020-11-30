@@ -1,0 +1,1561 @@
+[{
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1000')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1000')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1000",
+	"ProductName": "Notebook Basic 15",
+	"ProductDescription": "Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000046"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1001')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1001')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1001",
+	"ProductName": "Notebook Basic 17",
+	"ProductDescription": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000047"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1002')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1002')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1002",
+	"ProductName": "Notebook Basic 18",
+	"ProductDescription": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1003')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1003')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1003",
+	"ProductName": "Notebook Basic 19",
+	"ProductDescription": "Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000049"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1007')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1007')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1007",
+	"ProductName": "ITelO Vault",
+	"ProductDescription": "Digital Organizer with State-of-the-Art Storage Encryption",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000050"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1010')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1010')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1010",
+	"ProductName": "Notebook Professional 15",
+	"ProductDescription": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000051"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1011')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1011')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1011",
+	"ProductName": "Notebook Professional 17",
+	"ProductDescription": "Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000052"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1020')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1020",
+	"ProductName": "ITelO Vault Net",
+	"ProductDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000053"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1021')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1021')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1021",
+	"ProductName": "ITelO Vault SAT",
+	"ProductDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000054"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1022')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1022')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1022",
+	"ProductName": "Comfort Easy",
+	"ProductDescription": "32 GB Digital Assistant with high-resolution color screen",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000055"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1023')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1023')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1023",
+	"ProductName": "Comfort Senior",
+	"ProductDescription": "64 GB Digital Assistant with high-resolution color screen and synthesized voice output",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000056"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1030')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1030",
+	"ProductName": "Ergo Screen E-I",
+	"ProductDescription": "Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000057"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1031')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1031')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1031",
+	"ProductName": "Ergo Screen E-II",
+	"ProductDescription": "Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000058"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1032')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1032')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1032",
+	"ProductName": "Ergo Screen E-III",
+	"ProductDescription": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000059"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1035')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1035')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1035",
+	"ProductName": "Flat Basic",
+	"ProductDescription": "Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000060"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1036')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1036')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1036",
+	"ProductName": "Flat Future",
+	"ProductDescription": "Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000061"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1037')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1037')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1037",
+	"ProductName": "Flat XL",
+	"ProductDescription": "Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000062"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1040')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1040')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1040",
+	"ProductName": "Laser Professional Eco",
+	"ProductDescription": "Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory",
+	"ProductCategory": "Laser Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000063"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1041')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1041')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1041",
+	"ProductName": "Laser Basic",
+	"ProductDescription": "Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory",
+	"ProductCategory": "Laser Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000064"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1042')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1042')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1042",
+	"ProductName": "Laser Allround",
+	"ProductDescription": "Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with a first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color",
+	"ProductCategory": "Laser Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000065"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1050')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1050')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1050",
+	"ProductName": "Ultra Jet Super Color",
+	"ProductDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
+	"ProductCategory": "Ink Jet Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000066"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1051')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1051')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1051",
+	"ProductName": "Ultra Jet Mobile",
+	"ProductDescription": "1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office",
+	"ProductCategory": "Ink Jet Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000067"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1052')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1052')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1052",
+	"ProductName": "Ultra Jet Super Highspeed",
+	"ProductDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
+	"ProductCategory": "Ink Jet Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000068"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1055')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1055')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1055",
+	"ProductName": "Multi Print",
+	"ProductDescription": "1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)",
+	"ProductCategory": "Multifunction Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000069"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1056')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1056')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1056",
+	"ProductName": "Multi Color",
+	"ProductDescription": "1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)",
+	"ProductCategory": "Multifunction Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000070"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1060')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1060')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1060",
+	"ProductName": "Cordless Mouse",
+	"ProductDescription": "Cordless Optical USB Mice, Laptop, Color: Black, Plug&Play",
+	"ProductCategory": "Mice",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000071"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1061')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1061')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1061",
+	"ProductName": "Speed Mouse",
+	"ProductDescription": "Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel)",
+	"ProductCategory": "Mice",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000072"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1062')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1062')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1062",
+	"ProductName": "Track Mouse",
+	"ProductDescription": "Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&Play",
+	"ProductCategory": "Mice",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000073"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1063')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1063')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1063",
+	"ProductName": "Ergonomic Keyboard",
+	"ProductDescription": "Ergonomic USB Keyboard for Desktop, Plug&Play",
+	"ProductCategory": "Keyboards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000074"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1064')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1064')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1064",
+	"ProductName": "Internet Keyboard",
+	"ProductDescription": "Corded Keyboard with special keys for Internet Usability, USB",
+	"ProductCategory": "Keyboards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000075"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1065')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1065')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1065",
+	"ProductName": "Media Keyboard",
+	"ProductDescription": "Corded Ergonomic Keyboard with special keys for Media Usability, USB",
+	"ProductCategory": "Keyboards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000076"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1066')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1066')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1066",
+	"ProductName": "Mousepad",
+	"ProductDescription": "Nice mouse pad with ITelO Logo",
+	"ProductCategory": "Mousepads",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000077"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1067')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1067')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1067",
+	"ProductName": "Ergo Mousepad",
+	"ProductDescription": "Ergonomic mouse pad with ITelO Logo",
+	"ProductCategory": "Mousepads",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000078"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1068')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1068')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1068",
+	"ProductName": "Designer Mousepad",
+	"ProductDescription": "ITelO Mousepad Special Edition",
+	"ProductCategory": "Mousepads",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000079"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1069')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1069')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1069",
+	"ProductName": "Universal card reader",
+	"ProductDescription": "Universal card reader",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000080"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1070')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1070')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1070",
+	"ProductName": "Proctra X",
+	"ProductDescription": "Proctra X: PCI-E GDDR5 3072MB",
+	"ProductCategory": "Graphic Cards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000081"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1071')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1071')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1071",
+	"ProductName": "Gladiator MX",
+	"ProductDescription": "Gladiator XLN: PCI-E GDDR5 3072MB DVI Out, TV Out low-noise",
+	"ProductCategory": "Graphic Cards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000082"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1072')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1072')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1072",
+	"ProductName": "Hurricane GX",
+	"ProductDescription": "Hurricane GX: PCI-E 691 GFLOPS game-optimized",
+	"ProductCategory": "Graphic Cards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000083"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1073')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1073')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1073",
+	"ProductName": "Hurricane GX/LN",
+	"ProductDescription": "Hurricane GX/LN: PCI-E 691 GFLOPS game-optimized, low-noise.",
+	"ProductCategory": "Graphic Cards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000084"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1080')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1080')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1080",
+	"ProductName": "Photo Scan",
+	"ProductDescription": "Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - Hi-Speed USB - Bluetooth",
+	"ProductCategory": "Scanners",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000085"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1081')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1081')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1081",
+	"ProductName": "Power Scan",
+	"ProductDescription": "Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - SCSI for backward compatibility",
+	"ProductCategory": "Scanners",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000086"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1082')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1082')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1082",
+	"ProductName": "Jet Scan Professional",
+	"ProductDescription": "Flatbed scanner - Letter - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
+	"ProductCategory": "Scanners",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000087"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1083')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1083')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1083",
+	"ProductName": "Jet Scan Professional",
+	"ProductDescription": "Flatbed scanner - A4 - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
+	"ProductCategory": "Scanners",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000088"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1085')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1085')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1085",
+	"ProductName": "Copymaster",
+	"ProductDescription": "Copymaster",
+	"ProductCategory": "Multifunction Printers",
+	"MainProductCategory": "Printers & Scanners",
+	"Supplier": "100000089"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1090')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1090')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1090",
+	"ProductName": "Surround Sound",
+	"ProductDescription": "PC multimedia speakers - 5 Watt (Total)",
+	"ProductCategory": "Speakers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000090"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1091')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1091')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1091",
+	"ProductName": "Blaster Extreme",
+	"ProductDescription": "PC multimedia speakers - 10 Watt (Total) - 2-way",
+	"ProductCategory": "Speakers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000046"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1092')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1092')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1092",
+	"ProductName": "Sound Booster",
+	"ProductDescription": "PC multimedia speakers - optimized for Blutooth/A2DP",
+	"ProductCategory": "Speakers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000047"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1100')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1100')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1100",
+	"ProductName": "Smart Office",
+	"ProductDescription": "Complete package, 1 User, Office Applications (word processing, spreadsheet, presentations)",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1101')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1101')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1101",
+	"ProductName": "Smart Design",
+	"ProductDescription": "Complete package, 1 User, Image editing, processing",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000049"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1102')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1102')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1102",
+	"ProductName": "Smart Network",
+	"ProductDescription": "Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000050"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1103')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1103')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1103",
+	"ProductName": "Smart Multimedia",
+	"ProductDescription": "Complete package, 1 User, different Multimedia applications, playing music, watching DVDs, only with this Smart package",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000051"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1104')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1104')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1104",
+	"ProductName": "Smart Games",
+	"ProductDescription": "Complete package, 1 User, various games for amusement, logic, action, jump&run",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000052"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1105')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1105')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1105",
+	"ProductName": "Smart Internet Antivirus",
+	"ProductDescription": "Complete package, 1 User, highly recommended for internet users as anti-virus protection",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000053"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1106')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1106')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1106",
+	"ProductName": "Smart Firewall",
+	"ProductDescription": "Complete package, 1 User, recommended for internet users, protect your PC against cyber-crime",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000054"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1107')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1107')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1107",
+	"ProductName": "Smart Money",
+	"ProductDescription": "Complete package, 1 User, bring your money in your mind, see what you have and what you want",
+	"ProductCategory": "Software",
+	"MainProductCategory": "Software",
+	"Supplier": "100000055"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1110')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1110')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1110",
+	"ProductName": "PC Lock",
+	"ProductDescription": "Robust 3m anti-burglary protection for your laptop computer",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000056"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1111')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1111')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1111",
+	"ProductName": "Notebook Lock",
+	"ProductDescription": "Robust 1m anti-burglary protection for your desktop computer",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000057"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1112')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1112')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1112",
+	"ProductName": "Web cam reality",
+	"ProductDescription": "Color webcam, color, High-Speed USB",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000058"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1113')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1113')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1113",
+	"ProductName": "Screen clean",
+	"ProductDescription": "10 separately packed screen wipes",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000059"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1114')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1114')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1114",
+	"ProductName": "Fabric bag professional",
+	"ProductDescription": "Notebook bag, plenty of room for stationery and writing materials",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000060"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1115')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1115')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1115",
+	"ProductName": "Wireless DSL Router",
+	"ProductDescription": "Wireless DSL Router (available in blue, black and silver)",
+	"ProductCategory": "Telecommunications",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000061"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1116')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1116')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1116",
+	"ProductName": "Wireless DSL Router / Repeater",
+	"ProductDescription": "Wireless DSL Router / Repeater (available in blue, black and silver)",
+	"ProductCategory": "Telecommunications",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000062"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1117')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1117')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1117",
+	"ProductName": "Wireless DSL Router / Repeater and Print Server",
+	"ProductDescription": "Wireless DSL Router / Repeater and Print Server (available in blue, black and silver)",
+	"ProductCategory": "Telecommunications",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000063"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1118')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1118')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1118",
+	"ProductName": "USB Stick",
+	"ProductDescription": "USB 2.0 High-Speed 64 GB",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000064"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1120')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1120')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1120",
+	"ProductName": "Cordless Bluetooth Keyboard, english international",
+	"ProductDescription": "Cordless Bluetooth Keyboard with English keys",
+	"ProductCategory": "Keyboards",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000065"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1137')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1137')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1137",
+	"ProductName": "Flat XXL",
+	"ProductDescription": "Optimum Hi-Resolution max. 2048 × 1536 @ 85Hz, Dot Pitch: 0.24mm",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000066"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1138')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1138')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1138",
+	"ProductName": "Pocket Mouse",
+	"ProductDescription": "Portable pocket Mouse with retracting cord",
+	"ProductCategory": "Mice",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000067"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1210')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1210')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1210",
+	"ProductName": "PC Power Station",
+	"ProductDescription": "PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, Windows 8 Pro",
+	"ProductCategory": "PCs",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000068"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1500')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1500')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1500",
+	"ProductName": "Server Basic",
+	"ProductDescription": "Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity",
+	"ProductCategory": "Servers",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000069"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1501')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1501')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1501",
+	"ProductName": "Server Professional",
+	"ProductDescription": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 10Gb connectivity",
+	"ProductCategory": "Servers",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000070"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1502')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1502')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1502",
+	"ProductName": "Server Power Pro",
+	"ProductDescription": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 100Gb connectivity",
+	"ProductCategory": "Servers",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000071"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6130')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6130')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6130",
+	"ProductName": "Flat Watch HD32",
+	"ProductDescription": "32-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"ProductCategory": "Flat Screen TVs",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000072"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6131')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6131')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6131",
+	"ProductName": "Flat Watch HD37",
+	"ProductDescription": "37-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"ProductCategory": "Flat Screen TVs",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000073"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6132')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6132')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6132",
+	"ProductName": "Flat Watch HD41",
+	"ProductDescription": "41-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"ProductCategory": "Flat Screen TVs",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000074"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7030')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7030')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-7030",
+	"ProductName": "Platinberry",
+	"ProductDescription": "Our new multifunctional Handheld with phone function in platinum",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000075"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7020')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7020')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-7020",
+	"ProductName": "Goldberry",
+	"ProductDescription": "Our new multifunctional Handheld with phone function in gold",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000076"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7010')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7010')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-7010",
+	"ProductName": "Silverberry",
+	"ProductDescription": "Our new multifunctional Handheld with phone function in silver",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000077"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7000')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-7000')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-7000",
+	"ProductName": "Copperberry",
+	"ProductDescription": "Our new multifunctional Handheld with phone function in copper",
+	"ProductCategory": "PDAs & Organizers",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000078"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1095')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1095')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1095",
+	"ProductName": "Lovely Sound 5.1 Wireless",
+	"ProductDescription": "5.1 Headset, 40 Hz-20 kHz, Wireless",
+	"ProductCategory": "Headsets",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000079"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1096')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1096')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1096",
+	"ProductName": "Lovely Sound 5.1",
+	"ProductDescription": "5.1 Headset, 40 Hz-20 kHz, 3m cable",
+	"ProductCategory": "Headsets",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000080"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1097')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1097')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1097",
+	"ProductName": "Lovely Sound Stereo",
+	"ProductDescription": "5.1 Headset, 40 Hz-20 kHz, 1m cable",
+	"ProductCategory": "Headsets",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000081"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6123')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6123')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6123",
+	"ProductName": "Power Pro Player 80",
+	"ProductDescription": "MP3-Player with 80 GB SSD and Color Display, can play movies",
+	"ProductCategory": "MP3 Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000082"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6122')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6122')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6122",
+	"ProductName": "Power Pro Player 40",
+	"ProductDescription": "MP3-Player with 40 GB HDD and Color Display, can play movies",
+	"ProductCategory": "MP3 Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000083"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6121')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6121')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6121",
+	"ProductName": "ITelo Jog-Mate",
+	"ProductDescription": "ITelo Jog-Mate 64 GB HDD and Color Display, can play movies",
+	"ProductCategory": "MP3 Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000084"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6120')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6120')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6120",
+	"ProductName": "ITelo MusicStick",
+	"ProductDescription": "64 GB USB Music-on-a-Stick",
+	"ProductCategory": "MP3 Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000085"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6111')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6111')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6111",
+	"ProductName": "Record Movie",
+	"ProductDescription": "160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+	"ProductCategory": "Portable Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000086"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6110')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6110')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6110",
+	"ProductName": "Play Movie",
+	"ProductDescription": "CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+	"ProductCategory": "Portable Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000087"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6102')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6102')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6102",
+	"ProductName": "Beam Breaker B-3",
+	"ProductDescription": "1080p, DLP max. 12,3 Meter, 3D-ready",
+	"ProductCategory": "Projectors",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000088"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6101')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6101')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6101",
+	"ProductName": "Beam Breaker B-2",
+	"ProductDescription": "1080p, DLP max.9,34 Meter, 2D-ready",
+	"ProductCategory": "Projectors",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000089"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2002')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2002')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-2002",
+	"ProductName": "Portable DVD Player with 9\" LCD Monitor",
+	"ProductDescription": "9\" LCD Screen, storage holds up to 8 hours, 2 speakers included",
+	"ProductCategory": "Portable Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000090"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6100')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-6100')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-6100",
+	"ProductName": "Beam Breaker B-1",
+	"ProductDescription": "720p, DLP Projector max. 8,45 Meter, 2D",
+	"ProductCategory": "Projectors",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000046"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2027')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2027')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-2027",
+	"ProductName": "Removable CD/DVD Laser Labels",
+	"ProductDescription": "Removable jewel case labels, zero residues (100)",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000047"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2026')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2026')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-2026",
+	"ProductName": "Audio/Video Cable Kit - 4m",
+	"ProductDescription": "Quality cables for notebooks and projectors",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2025')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2025')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-2025",
+	"ProductName": "CD/DVD case: 264 sleeves",
+	"ProductDescription": "Organizer and protective case for 264 CDs and DVDs",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000049"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2000')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-2000')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-2000",
+	"ProductName": "7\" Widescreen Portable DVD Player w MP3",
+	"ProductDescription": "7\" LCD Screen, storage battery holds up to 6 hours!",
+	"ProductCategory": "Portable Players",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000051"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1603')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1603')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1603",
+	"ProductName": "Gaming Monster Pro",
+	"ProductDescription": "3,4 Ghz quad core, 16 GB DDR3 SDRAM, 4000 GB Hard Disc, Graphic Card: Hurricane GX, Windows 8",
+	"ProductCategory": "PCs",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000052"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1602')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1602')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1602",
+	"ProductName": "Gaming Monster",
+	"ProductDescription": "3,4 Ghz quad core, 8 GB DDR3 SDRAM, 2000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8",
+	"ProductCategory": "PCs",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000053"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1601')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1601')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1601",
+	"ProductName": "Family PC Pro",
+	"ProductDescription": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8",
+	"ProductCategory": "PCs",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000054"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1600')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1600')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1600",
+	"ProductName": "Family PC Basic",
+	"ProductDescription": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Graphic Card: Proctra X, Windows 8",
+	"ProductCategory": "PCs",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000055"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1119')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1119')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1119",
+	"ProductName": "Travel Adapter",
+	"ProductDescription": "Universal Travel Adapter",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000056"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8000')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8000')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-8000",
+	"ProductName": "ITelO FlexTop I4000",
+	"ProductDescription": "Notebook with 2,80 GHz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000057"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8001')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8001')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-8001",
+	"ProductName": "ITelO FlexTop I6300c",
+	"ProductDescription": "Notebook with 2,80 GHz dual core, 8 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000058"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8002')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8002')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-8002",
+	"ProductName": "ITelO FlexTop I9100",
+	"ProductDescription": "Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000059"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8003')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-8003')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-8003",
+	"ProductName": "ITelO FlexTop I9800",
+	"ProductDescription": "Notebook with 2,80 GHz quad core, 8 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000060"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('PF-1000')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('PF-1000')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "PF-1000",
+	"ProductName": "Flyer",
+	"ProductDescription": "Flyer for our product palette",
+	"ProductCategory": "Computer System Accessories",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000061"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9999')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9999')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9999",
+	"ProductName": "Maxi Tablet",
+	"ProductDescription": "10.1-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+	"ProductCategory": "Tablets",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000062"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9998')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9998')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9998",
+	"ProductName": "Smartphone Beta",
+	"ProductDescription": "5 Megapixel Camera, Wi-Fi 802.11 b/g/n, Bluetooth, GPS A-GPS support",
+	"ProductCategory": "Smartphones",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000063"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9997')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9997')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9997",
+	"ProductName": "e-Book Reader ReadMe",
+	"ProductDescription": "6-Inch E Ink Screen, Access To e-book Store, Adjustable Font Styles and Sizes, Stores Up To 1,000 Books",
+	"ProductCategory": "Tablets",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000064"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9996')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9996')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9996",
+	"ProductName": "Tablet Pouch",
+	"ProductDescription": "Stylish tablet pouch, protects from scratches, color: black",
+	"ProductCategory": "Accessories",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000065"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9995')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9995')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9995",
+	"ProductName": "Smartphone Cover",
+	"ProductDescription": "Durable high quality plastic bump-sleeve, lightweight, protects from scratches, rubber coating, multiple colors available, Accurate design and cut-outs for your device, snap-on design",
+	"ProductCategory": "Accessories",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000066"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9994')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9994')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9994",
+	"ProductName": "Camcorder View",
+	"ProductDescription": "1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7\" wide LCD display",
+	"ProductCategory": "Camcorders",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000067"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9993')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9993')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9993",
+	"ProductName": "Mini Tablet",
+	"ProductDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)",
+	"ProductCategory": "Tablets",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000068"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9992')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9992')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9992",
+	"ProductName": "Smartphone Alpha",
+	"ProductDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
+	"ProductCategory": "Smartphones",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000069"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9991')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-9991')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-9991",
+	"ProductName": "Smartphone Leather Case",
+	"ProductDescription": "Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models",
+	"ProductCategory": "Accessories",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000070"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1251')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1251')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1251",
+	"ProductName": "Astro Laptop 1516",
+	"ProductDescription": "Flexible Laptop with 2,5 GHz Quad Core, 15\" HD TN, 16 GB DDR SDRAM, 256 GB SSD, Windows 10 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000071"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1252')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1252')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1252",
+	"ProductName": "Astro Phone 6",
+	"ProductDescription": "6 inch 1280x800 HD display (216 ppi), Quad-core processor, 8 GB internal storage (actual formatted capacity will be less), 3050 mAh battery (Up to 8 hours of active use), grey or black",
+	"ProductCategory": "Smartphones",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000072"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1253')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1253')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1253",
+	"ProductName": "Benda Laptop 1408",
+	"ProductDescription": "Flexible Laptop with 2,5 GHz Dual Core, 14\" HD+ TN, 8 GB DDR SDRAM, 324 GB SSD, Windows 10 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000073"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1254')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1254')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1254",
+	"ProductName": "Bending Screen 21HD",
+	"ProductDescription": "Optimum Hi-Resolution Widescreen max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000074"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1255')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1255')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1255",
+	"ProductName": "Broad Screen 22HD",
+	"ProductDescription": "Optimum Hi-Resolution Widescreen max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub",
+	"ProductCategory": "Flat Screen Monitors",
+	"MainProductCategory": "Computer Components",
+	"Supplier": "100000075"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1256')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1256')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1256",
+	"ProductName": "Cerdik Phone 7",
+	"ProductDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
+	"ProductCategory": "Smartphones",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000076"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1257')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1257')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1257",
+	"ProductName": "Cepat Tablet 10.5",
+	"ProductDescription": "10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+	"ProductCategory": "Tablets",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000077"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1258')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('HT-1258')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "HT-1258",
+	"ProductName": "Cepat Tablet 8",
+	"ProductDescription": "8-inch Multitouch HD Screen (2000 x 1500) 32GB Internal Memory, Wireless N Wi-Fi, Bluetooth, GPS Enabled, 1.5 GHz Quad-Core Processor",
+	"ProductCategory": "Tablets",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000078"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-001255')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-001255')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-001255",
+	"ProductName": "New Products",
+	"ProductDescription": "desc",
+	"ProductCategory": "Camcorders",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000046"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023699')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023699')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023699",
+	"ProductName": "Laptop",
+	"ProductDescription": "some test for the test\n",
+	"ProductCategory": "Accessories",
+	"MainProductCategory": "Smartphones & Tablets",
+	"Supplier": "100000046"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('MV-023765')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('MV-023765')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "MV-023765",
+	"ProductName": "mvtest1",
+	"ProductDescription": "test",
+	"ProductCategory": "Camcorders",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000049"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023721')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023721')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023721",
+	"ProductName": "new",
+	"ProductDescription": "desc",
+	"ProductCategory": "Camcorders",
+	"MainProductCategory": "TV, Video & HiFi",
+	"Supplier": "100000047"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023739')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023739')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023739",
+	"ProductName": "Copy of Notebook Basic 18",
+	"ProductDescription": "Notebook Basic 1213 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023740')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023740')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023740",
+	"ProductName": "Copy of Copy of Notebook Basic 18",
+	"ProductDescription": "Notebook Basic 1213 with 2,80 GHz quad core, 18\" LCD, 128 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023741')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023741')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023741",
+	"ProductName": "Copy of Copy of Copy of Notebook Basic 18",
+	"ProductDescription": "Notebook Basic 1213 with 2,80 GHz quad core, 18\" LCD, 128 GB DDR3 RAM, 1000 GB Hard Disc, Windows 10 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000048"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023742')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_ProductVH('EPM-023742')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_ProductVHType"
+	},
+	"Product": "EPM-023742",
+	"ProductName": "Copy of Notebook Basic 17",
+	"ProductDescription": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 10 Pro",
+	"ProductCategory": "Notebooks",
+	"MainProductCategory": "Computer Systems",
+	"Supplier": "100000047"
+}]
