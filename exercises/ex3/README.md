@@ -2,7 +2,7 @@ Exercise 3 -- Configuring Filters in Analytical List Page
 =========================================================
 
 In this exercise, you will define the filter area of the Analytical List
-Page.
+Page using the Guided Development tool. Open this tool as in [Exercise 2 - Configuring Content Area of Analytical List Page](../ex2#exercise-2---configure-content-area-in-analytical-list-page).
 
 Exercise 3.1 Configuring Comact Filter 
 --------------------------------------
@@ -62,8 +62,7 @@ list of available guides.
 
 You can now switch to the tab containing the running app to view the
 result. If you already stopped the preview after the previous exercise,
-you can start it again as described in Exercise 2.5 Starting the
-Application Preview
+you can start it again as described in [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview).
 
 **Note**: Do not forget to click the **Compact Filter**
 button ![](media/image8.png) to view the updated filter bar.
@@ -120,6 +119,10 @@ the .json file now.
 (14) Click **Exit Guide**.
 
 ![](media/image15.png)
+
+You can now switch to the tab containing the running app to view the
+result. If you already stopped the preview after the previous exercise,
+you can start it again as described in [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview).
 
 (15) Open the value help in the **Order Date** filter. In the pop-up,
 open the drop-down list of the Time Period field and choose a desired
@@ -242,7 +245,7 @@ dimension in the chart configured in step 1 of the guide.
 (27) Click **Exit Guide**.
 
 At this point your visual filter is configured and you can start the
-application preview as described in Exercise 2.5 Starting Application Preview. The visual filter is displayed. You can filter the content by selecting any of the points in the line chart and clicking **Go**.
+application preview as described in [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview). The visual filter is displayed. You can filter the content by selecting any of the points in the line chart and clicking **Go**.
 
 ![](media/image27.png)
 
@@ -304,9 +307,7 @@ type in the annotation Common.ValueList as in steps (25) - (26) above.
 dimension in the chart configured in step 1 of the guide.
 
 When you are done with all three steps, your second visual filter is
-configured and you can start the application preview as described in Exercise 2.5 Starting Application Preview. Enter **EUR** as a
-currency in the pop up and click **Go** to view the result. The second
-visual filter in is displayed as a bar chart.
+configured and you can start the application preview as described in [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview). Enter **EUR** as a currency in the pop up and click **Go** to view the result. The second visual filter in is displayed as a bar chart.
 
 ![](media/image31.png)
 
@@ -420,7 +421,7 @@ g.  Use the code completion again to add the property **Measures** and assign **
 </Annotation>
 
 ```
-At this point you have configured the semantic coloring for the visual filter with the Line chart. Start the preview to see the changes in your visual filter based on the line chart. The data points are highlighted with semantic colors.
+At this point you have configured the semantic coloring for the visual filter with the Line chart. Start the preview to see the changes in your visual filter based on the line chart. The data points are highlighted with semantic colors. 
 
 ![](media/image40.png)
 
