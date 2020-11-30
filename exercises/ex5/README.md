@@ -33,8 +33,8 @@ field.
   |**Field**                     |**Value**
   |----------------------------- |----------------------------------
   |Entity Type                   |SEPMRA_SO_SALESORDERANALYSISType
-  |Title -- Type Name            |Sales Order Item
-  |Title -- Type Name (Plural)   |Sales Order Items
+  |Title - Type Name             |Sales Order Item
+  |Title - Type Name (Plural)    |Sales Order Items
   |Object Title                  |SalesOrderItem
   |Object Image                  |sap-icon://sales-order-item
 
@@ -43,7 +43,7 @@ field.
 The basic header of the object page is defined and you can exit the
 guide.
 
-(Optional) Start the application preview as described in the [Exercise 2.4 Starting the Application Preview](../ex2#exercise-24-starting-the-application-preview).
+(Optional) Start the application preview as described in the [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview).
 
 
 **Note**: To navigate to the Object page in your application preview,
@@ -92,7 +92,7 @@ the first data point:
   |---------------------- |----------------------------------
   |Entity Type            |SEPMRA_SO_SALESORDERANALYSISType
   |Data Point Qualifier   |Status
-  |Property               |SalesOrderStatus
+  |Property               |SalesOrderOverallStatus
 
 (11) Click **Apply**.
 
@@ -121,7 +121,7 @@ in Step 1 in HeaderFacets to display them in the Object page header.
 The header of the object page is now configured and you can exit the
 guide.
 
-(Optional) Start the application preview as described in the [Exercise 2.4 Starting the Application Preview](../ex2#exercise-24-starting-the-application-preview).
+(Optional) Start the application preview as described in the [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview).
 
 **Note**: You can notice, that the revenue figure is displayed with a
 currency, even though we did not define it. This is due to annotations
@@ -202,12 +202,8 @@ group:
 (27) Change the value in the **Qualifier** field to **Product** to
 create a group displaying product information.
 
- 
-
 (28) Change the value in the **Property** field to **ProductName** to
 add a new field to the second field group.
-
- 
 
 (29) Click **Apply**.
 
@@ -244,7 +240,7 @@ The content area of your Object page is now enhanced with two sections,
 each displaying a field group.
 
 Exit the guide and start the application preview as described in the
-[Exercise 2.4 Starting the Application Preview](../ex2#exercise-24-starting-the-application-preview).
+[Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview).
 
 **Note**: To navigate to the Object page in your application preview,
 click on the navigation indicator ( '\>' ) at the end of a table row in
