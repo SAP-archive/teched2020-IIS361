@@ -111,7 +111,7 @@ annotation file as configured in the code snippet.
 
 Exercise 2.3 Configuring Presentation Variant
 ------------------------------------------------------------
-In this exercise, you will configure a UI.PresentationVariant annotation that is used to display the main content of the Analytical List Page. Here you will assign the chart and table created earlier in this exercise as visualization artifacts and define the sorting order. To do so, you will use the step 2 of the Add interactive chart guide.
+In this exercise, you will configure a UI.PresentationVariant annotation that is used to display the main content of the Analytical List Page. Here you will assign the chart and table created earlier in this exercise as visualization artifacts and define the sorting order. To do so, you will use the **step 2** of the **Add interactive chart** guide.
 
 ![](media/image18.png)
 
@@ -143,7 +143,7 @@ In this exercise, you will configure a UI.PresentationVariant annotation that is
 Exercise 2.4 Configuring Chart Data Label
 -----------------------------------------
 
-At this point, the required content for the Analytical List Page is configured and you could start the preview as described in the Exercise 2.5 Starting Application preview. But before you do so, let's enhance the chart view with the data labes indicating the measure values. For this the following manifest setting needs to be defined for your Analytical List Page:
+At this point, the required content for the Analytical List Page is configured and you could start the preview as described in the [Exercise 2.5 Starting Application Preview](../ex2#exercise-25-starting-application-preview). But before you do so, let's enhance the chart view with the data labes indicating the measure values. For this the following manifest setting needs to be defined for your Analytical List Page:
 
 ```
 "chartSettings": {
