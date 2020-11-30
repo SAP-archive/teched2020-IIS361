@@ -4,7 +4,7 @@ Exercise 3 -- Configuring Filters in Analytical List Page
 In this exercise, you will define the filter area of the Analytical List
 Page using the Guided Development tool. Open this tool as in [Exercise 2 - Configuring Content Area of Analytical List Page](../ex2#exercise-2---configure-content-area-in-analytical-list-page).
 
-Exercise 3.1 Configuring Comact Filter 
+Exercise 3.1 Configuring Compact Filter 
 --------------------------------------
 
 In this exercise, you will configure a UI.SelectionFields annotation
@@ -442,4 +442,9 @@ Press **Enter** or **Return** to trigger Go / Search action.
 Summary
 -------
 
-You have learned how to create Visual Filters and define the semantic coloring for its elements. In the next exercise, you will prepare for translation the text you defined for UI elements. Continue to  Exercise 4 - Preparing texts for translation [Exercise 4 - Preparing texts for translation](../ex4/README.md).
+You have learned how to create Visual Filters and define the semantic coloring for its elements using annotations. You have also learned how to configure the semantic date range for the date fields in the compact filter with manifest settings.
+
+**Note**: You can compare the contents of your **annotation.xml** and **manifest.json** files with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>annotations**, right-click on the  **annotation.xml** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex3-\>solutions_ex3-\>webapp-\>annotations**, right-click on the **annotation.xml** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. Similarly you can compare the contents of your **manifest.json** file in folder **salesorderanalysis\>webapp** with the respective file in the solutions.
+
+
+In the next exercise, you will prepare for translation the text you defined for UI elements. Continue to  Exercise 4 - Preparing texts for translation [Exercise 4 - Preparing texts for translation](../ex4/README.md).

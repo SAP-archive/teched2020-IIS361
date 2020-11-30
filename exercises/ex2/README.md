@@ -226,6 +226,8 @@ The filter bar area is empty as at this point no visual filters are defined. You
 Summary
 -------
 
-You have successfuly annotated the main entity type of your app with UI.LineItem, UI.Chart and UI.PresentationVariant annotations required to display content area of Analytical List Page. 
+You have successfuly annotated the main entity type of your app with UI.LineItem, UI.Chart and UI.PresentationVariant annotations required to display content area of Analytical List Page. You have also updated the app descriptior file (manifest.json) with the showDataLabel setting required to display the measure values in chart.
+
+**Note**: You can compare the contents of your **annotation.xml** and **manifest.json** files with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>annotations**, right-click on the  **annotation.xml** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex2-\>solutions_ex2-\>webapp-\>annotations**, right-click on the **annotation.xml** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. Similarly you can compare the contents of your **manifest.json** file in folder **salesorderanalysis\>webapp** with the respective file in the solutions.
 
 Continue to [Exercise 3 - Configuring Filters in Analytical List Page](../ex3/README.md)

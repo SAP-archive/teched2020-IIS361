@@ -1,0 +1,406 @@
+[{
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000046')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000046')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000046",
+	"CompanyName": "SAP",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000047')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000047')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000047",
+	"CompanyName": "Becker Berlin",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000048')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000048')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000048",
+	"CompanyName": "DelBont Industries",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000049')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000049')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000049",
+	"CompanyName": "Talpa",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000050')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000050')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000050",
+	"CompanyName": "Panorama Studios",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000051')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000051')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000051",
+	"CompanyName": "TECUM",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000052')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000052')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000052",
+	"CompanyName": "Asia High tech",
+	"Country": "JP"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000053')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000053')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000053",
+	"CompanyName": "Laurent",
+	"Country": "FR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000054')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000054')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000054",
+	"CompanyName": "AVANTEL",
+	"Country": "MX"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000055')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000055')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000055",
+	"CompanyName": "Telecomunicaciones Star",
+	"Country": "AR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000056')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000056')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000056",
+	"CompanyName": "Pear Computing Services",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000057')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000057')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000057",
+	"CompanyName": "Alpine Systems",
+	"Country": "AT"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000058')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000058')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000058",
+	"CompanyName": "New Line Design",
+	"Country": "GB"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000059')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000059')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000059",
+	"CompanyName": "HEPA Tec",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000060')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000060')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000060",
+	"CompanyName": "Anav Ideon",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000061')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000061')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000061",
+	"CompanyName": "Robert Brown Entertainment",
+	"Country": "CA"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000062')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000062')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000062",
+	"CompanyName": "Mexican Oil Trading Company",
+	"Country": "MX"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000063')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000063')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000063",
+	"CompanyName": "Meliva",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000064')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000064')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000064",
+	"CompanyName": "Compostela",
+	"Country": "AR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000065')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000065')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000065",
+	"CompanyName": "Pateu",
+	"Country": "FR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000066')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000066')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000066",
+	"CompanyName": "Russian Electronic Trading Company",
+	"Country": "RU"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000067')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000067')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000067",
+	"CompanyName": "Florida Holiday Company",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000068')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000068')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000068",
+	"CompanyName": "Quimica Madrilenos",
+	"Country": "ES"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000069')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000069')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000069",
+	"CompanyName": "Getränkegroßhandel Janssen",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000070')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000070')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000070",
+	"CompanyName": "JaTeCo",
+	"Country": "JP"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000071')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000071')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000071",
+	"CompanyName": "Tessile Casa Di Roma",
+	"Country": "IT"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000072')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000072')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000072",
+	"CompanyName": "Vente Et Réparation de Ordinateur",
+	"Country": "FR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000073')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000073')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000073",
+	"CompanyName": "Developement Para O Governo",
+	"Country": "AR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000074')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000074')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000074",
+	"CompanyName": "Brazil Technologies",
+	"Country": "BR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000075')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000075')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000075",
+	"CompanyName": "C.R.T.U.",
+	"Country": "CA"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000076')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000076')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000076",
+	"CompanyName": "Jologa",
+	"Country": "CH"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000077')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000077')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000077",
+	"CompanyName": "Baleda",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000078')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000078')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000078",
+	"CompanyName": "Angeré",
+	"Country": "FR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000079')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000079')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000079",
+	"CompanyName": "PC Gym Tec",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000080')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000080')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000080",
+	"CompanyName": "Japan Insurance Partner",
+	"Country": "JP"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000081')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000081')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000081",
+	"CompanyName": "Entertainment Argentinia",
+	"Country": "AR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000082')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000082')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000082",
+	"CompanyName": "African Gold And Diamond Corporation",
+	"Country": "ZA"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000083')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000083')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000083",
+	"CompanyName": "PicoBit",
+	"Country": "US"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000084')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000084')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000084",
+	"CompanyName": "Bionic Research Lab",
+	"Country": "DE"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000085')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000085')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000085",
+	"CompanyName": "Indian IT Trading Company",
+	"Country": "IN"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000086')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000086')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000086",
+	"CompanyName": "Chemia A Technicznie Fabryka",
+	"Country": "PL"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000087')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000087')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000087",
+	"CompanyName": "South American IT Company",
+	"Country": "AR"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000088')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000088')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000088",
+	"CompanyName": "Siwusha",
+	"Country": "CN"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000089')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000089')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000089",
+	"CompanyName": "Danish Fish Trading Company",
+	"Country": "DK"
+}, {
+	"__metadata": {
+		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000090')",
+		"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/SEPMRA_ALP_SO_ANA_SRV/SEPMRA_C_ALP_SupplierVH('100000090')",
+		"type": "SEPMRA_ALP_SO_ANA_SRV.SEPMRA_C_ALP_SupplierVHType"
+	},
+	"Supplier": "100000090",
+	"CompanyName": "Sorali",
+	"Country": "DE"
+}]

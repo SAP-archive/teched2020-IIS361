@@ -259,4 +259,9 @@ When the focus is anywhere in the app, press **SHIFT + CTRL + S** (Windows) or *
 Summary
 -------
 
-You have successfuly configured the basic content for your Object page.
+You have successfuly configured the basic content for your Object page with annotations. 
+
+**Note**: You can compare the contents of your **annotation.xml** file with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>annotations**, right-click on the  **annotation.xml** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex5-\>solutions_ex5-\>webapp-\>annotations**, right-click on the **annotation.xml** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. 
+
+You can also prepare for translation all the texts added in this exercise for the object page as described in [Exercise 4 - Preparing texts for translation](../ex4/README.md)
+ 
