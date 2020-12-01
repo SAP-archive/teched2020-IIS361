@@ -126,7 +126,7 @@ you can start it again as described in [Exercise 2.5 Starting Application Previe
 
 (15) Open the value help in the **Order Date** filter. In the pop-up,
 open the drop-down list of the Time Period field and choose a desired
-date range.
+date range. To filter this content, choose either last 2 quarters, last 6 months or last 1 year.
 
 ![](media/image16.png)
 

@@ -14,7 +14,7 @@
 	"NetAmountInTransactionCurrency": "3300.00",
 	"TransactionCurrency": "EUR",
 	"TransactionCurrency_T": "Euro",
-	"DeliveryDate": "Jul 29, 2018"
+	"DeliveryDate": "Jul 29, 2020"
 }, {
 	"__metadata": {
 		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/SEPMRA_SO_ALP_SLDORDERITEM('.1~0500000000.2~0000000030')",
@@ -31,7 +31,7 @@
 	"NetAmountInTransactionCurrency": "2723.00",
 	"TransactionCurrency": "USD",
 	"TransactionCurrency_T": "US Dollar",
-	"DeliveryDate": "Jul 30, 2018"
+	"DeliveryDate": "Jul 30, 2020"
 }, {
 	"__metadata": {
 		"id": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/SEPMRA_SO_ALP_SLDORDERITEM('.1~0500000000.2~0000000020')",
@@ -48,5 +48,5 @@
 	"NetAmountInTransactionCurrency": "2498.00",
 	"TransactionCurrency": "EUR",
 	"TransactionCurrency_T": "Euro",
-	"DeliveryDate": "Jul 28, 2018"
+	"DeliveryDate": "Jul 28, 2020"
 }]
