@@ -93,7 +93,7 @@ In this exercise, you will configure the chart to be displayed in the Analytical
 
  | **Field**             |**Value**
  | --------------------- |----------------------------------
- | Entity Type           |SEPMRA_SO_SALESORDERANALYSISType
+ | Entity Type           |Z_SEPMRA_SO_SALESORDERANALYSISType
  | Chart Title           |Revenue by Customer
  | Chart Description     |Net Revenue by Customer
  | ChartType             |Column
@@ -123,7 +123,7 @@ In this exercise, you will configure a UI.PresentationVariant annotation that is
 
   |**Field**                 |**Value**
   |------------------------- |----------------------------------
-  |Entity Type               |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type               |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Sort Order Property       |NetAmount
   |Sort Order Descending?    |true
   |Include Grand Total?      |false

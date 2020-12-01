@@ -11,7 +11,7 @@ Exercise 5.1 Defining Header Information
 In this exercise, you will define the information that will be displayed
 in the header of the object page: the ID of the sales order item and an
 icon. You will also change the title of the object page (type name) and
-set title of the table of the List Report page (type name plural). For
+set title of the table of the Analytical List page (type name plural). For
 this, you will use the guide **Configure object page header**.
 
 ![](media/image1.png)
@@ -32,7 +32,7 @@ field.
 
   |**Field**                     |**Value**
   |----------------------------- |----------------------------------
-  |Entity Type                   |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type                   |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Title - Type Name             |Sales Order Item
   |Title - Type Name (Plural)    |Sales Order Items
   |Object Title                  |SalesOrderItem
@@ -78,7 +78,7 @@ the first data point:
 
   |**Field**              |**Value**
   |---------------------- |----------------------------------
-  |Entity Type            |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type            |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Data Point Qualifier   |NetAmount
   |Property               |NetAmount
 
@@ -90,7 +90,7 @@ the first data point:
 
   |**Field**              |**Value**
   |---------------------- |----------------------------------
-  |Entity Type            |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type            |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Data Point Qualifier   |Status
   |Property               |SalesOrderOverallStatus
 
@@ -107,7 +107,7 @@ in Step 1 in HeaderFacets to display them in the Object page header.
 
   |**Field**              |**Value**
   |---------------------- |----------------------------------
-  |Entity Type            |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type            |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Data Point Qualifier   |UI.DataPoint\#NetAmount
 
 (14) Click **Apply**.
@@ -155,7 +155,7 @@ the following values to define the first group:
 
   |**Field**     |**Value**
   |------------- |----------------------------------
-  |Entity Type   |SEPMRA_SO_SALESORDERANALYSISType
+  |Entity Type   |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Qualifier     |General
 
 ![](media/image17.png)
