@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called IIS316 - Create Analytical SAP Fiori Apps Quickly and Efficiently  
+This repository contains the material for the SAP TechEd 2020 session called IIS361 - Create Analytical SAP Fiori Apps Quickly and Efficiently  
 
 ## Overview
 
