@@ -139,7 +139,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
-	"OrderDate": "1596047400000",
+	"OrderDate": "/Date(1596047400000)",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000030')/to_Product"
