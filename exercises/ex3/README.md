@@ -217,7 +217,7 @@ visual filter and properties in the objects displayed in the main
 content, so that clicking on a dimension value the visual filter will
 filter the main content accordingly. In this case, you have to map the
 date property in **SEPMRA_SO_ALP_SLDORDERITEMType** to the date in
-**Z_SEPMRA_SO_SALESORDERANALYSIS** for the visual filter to work
+**Z_SEPMRA_SO_SALESORDERANALYSISType** for the visual filter to work
 properly. For this, we use the Common.ValueList annotation.
 
 ![](media/image25.png)
