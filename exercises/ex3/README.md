@@ -52,7 +52,7 @@ following properties:
 
 -   DeliveryCalendarQuarter
 
--   Order Date
+-   OrderDate
 
 ![](media/image7.png)
 
