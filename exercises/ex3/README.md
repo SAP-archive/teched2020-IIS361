@@ -217,7 +217,7 @@ visual filter and properties in the objects displayed in the main
 content, so that clicking on a dimension value the visual filter will
 filter the main content accordingly. In this case, you have to map the
 date property in **SEPMRA_SO_ALP_SLDORDERITEMType** to the date in
-**Z_SEPMRA_SO_SALESORDERANALYSIS** for the visual filter to work
+**Z_SEPMRA_SO_SALESORDERANALYSISType** for the visual filter to work
 properly. For this, we use the Common.ValueList annotation.
 
 ![](media/image25.png)
@@ -439,6 +439,15 @@ Press **Enter** or **Return** to trigger Go / Search action.
 
 ![](media/image42.png)
 
+The below table shows the available keyboard shortcuts.
+
+  |**Action**                |**Shortcut (Microsoft Windows)**  |**Shortcut (Mac OS)**  |**Prerequisite** |**Result**
+  |------------------------- |--------------------------------- |---------------------  |---------------- |-----------
+  |Share                     |Shift + Ctrl + S                  |Shift + CMD + S        |The focus should be set anywhere on the list report or object page. | If the focus is on the filter bar, the share-ActionSheet opens near the Share button   
+  |Go                        |Enter (or) Return                 |Enter (or) Return      |The focus should be set anywhere on the SmartFilterBar (or) any element in the visual filter panel or on the entire visual filter. |In the SmartFilterBar, the search is triggered while the focus is within one of the filter bar’s input fields. (or) If the focus is on any element in the visual filter panel or on the entire visual filter, Go is triggered.
+  |Table settings |Ctrl + , |Ctrl + , |The focus should be set on the table. |The same as when a user chooses the Table Settings button.
+  |Export as   |Shift + Ctrl + E  |Shift + CMD + E  |The focus should be set on the table.  |The same as when a user chooses Export to Excel → Export As.
+  
 Summary
 -------
 

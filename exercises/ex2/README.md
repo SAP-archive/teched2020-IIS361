@@ -36,7 +36,7 @@ This simple guide contains just one step adding a column (DataField record) to y
 
 ![](media/image8.png)
 
-(7) In the **Entity Type** field, choose your main entity type **Z_SEPMRA_SO_SALESORDERANALYSIS**.
+(7) In the **Entity Type** field, choose your main entity type **Z_SEPMRA_SO_SALESORDERANALYSISType**.
 
 ![](media/image9.png)
 
