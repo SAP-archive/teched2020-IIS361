@@ -60,7 +60,7 @@
 	"ID": ".1~0500000012.2~0000000040",
 	"SalesOrder": "500000012",
 	"SalesOrderItem": "40",
-	"DeliveryCalendarDate": "Jul 29, 2020",
+	"DeliveryCalendarDate": "Jul 28, 2020",
 	"DeliveryCalendarYear": "2020",
 	"DeliveryCalendarQuarter": "3",
 	"DeliveryCalendarQuarterT": "Q3",
@@ -87,7 +87,7 @@
 	"Quantity": 3,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
-	"OrderDate": "/Date(1595961000000)/",
+	"OrderDate": "/Date(1595874600000)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000012.2~0000000040')/to_Product"
@@ -216,7 +216,7 @@
 	"ID": ".1~0500000000.2~0000000020",
 	"SalesOrder": "500000000",
 	"SalesOrderItem": "20",
-	"DeliveryCalendarDate": "Jul 29, 2020",
+	"DeliveryCalendarDate": "Jul 30, 2020",
 	"DeliveryCalendarYear": "2020",
 	"DeliveryCalendarQuarter": "3",
 	"DeliveryCalendarQuarterT": "Q3",
@@ -243,7 +243,7 @@
 	"Quantity": 2,
 	"QuantityUnit": "EA",
 	"QuantityUnitT": "each",
-	"OrderDate": "/Date(1595961000000)/",
+	"OrderDate": "/Date(1596047400000)/",
 	"to_Product": {
 		"__deferred": {
 			"uri": "https://ldai2uia.wdf.sap.corp:44300/sap/opu/odata/sap/TECHED_ALP_SOA_SRV/Z_SEPMRA_SO_SALESORDERANALYSIS('.1~0500000000.2~0000000020')/to_Product"
