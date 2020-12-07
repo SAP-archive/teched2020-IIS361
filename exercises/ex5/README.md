@@ -1,11 +1,11 @@
-Exercise 5 - Configuring the Second Page (Object Page)
+Bonus Exercise 2 - Configuring the Second Page (Object Page)
 =======================================================
 
 In this exercise, you will define the header and content for the Object
 page using the Guided Development tool. Open this tool as in [Exercise 2
 -- Configuring Content Area of Analytical List Page](../ex2#exercise-2---configure-content-area-in-analytical-list-page).
 
-Exercise 5.1 Defining Header Information
+Bonus Exercise 2.1 Defining Header Information
 --------------------------------------
 
 In this exercise, you will define the information that will be displayed
@@ -50,7 +50,7 @@ guide.
 click on the navigation indicator ( '\>' ) at the end of a table row in
 the Analytical list page.
 
-Exercise 5.2 Displaying Data Points in Object Page Header
+Bonus Exercise 2.2 Displaying Data Points in Object Page Header
 ---------------------------------------------------------
 
 In this exercise, you will you will add two additional pieces of
@@ -128,7 +128,7 @@ currency, even though we did not define it. This is due to annotations
 already configured for you in the **metadata.xml** file: the **NetAmount** and **Currency** properties are tied together using the `sap:unit` and
 `sap:semantics` annotations.
 
-Exercise 5.3 Adding Field Group Sections to the Object Page 
+Bonus Exercise 2.3 Adding Field Group Sections to the Object Page 
 -----------------------------------------------------------
 
 In this exercise, you will define two sections in the ObjectPage
@@ -248,7 +248,7 @@ the Analytical list page.
 
 ![](media/image24.png)
 
-Exercise 5.4 Using Shortcuts
+Bonus Exercise 2.4 Using Shortcuts
 ---------------------------------------------------------
 
 In this exercise, you will get acquainted with the shortcuts that are available on Object page. 
