@@ -46,12 +46,12 @@ Wish you all the best.
   - [Exercise 3.4 Configuring Visual Filter with Bar Chart](exercises/ex3#exercise-34-configuring-visual-filter-with-bar-chart)
   - [Exercise 3.5 Configuring Semantic Coloring](exercises/ex3#exercise-35-configuring-semantic-coloring)
   - [Exercise 3.6 Using Shortcuts](exercises/ex3#exercise-36-using-shortcuts)
-- [Exercise 4 - Preparing texts for translation](exercises/ex4/README.md)
-- [Exercise 5 - Configuring Object Page](exercises/ex5/README.md)
-  - [Exercise 5.1 Defining Header Information](exercises/ex5#exercise-51-defining-header-information)
-  - [Exercise 5.2 Displaying Data Points in Object Page Header](exercises/ex5#exercise-52-displaying-data-points-in-object-page-header)
-  - [Exercise 5.3 Adding Field Group Sections to the Object Page](exercises/ex5#exercise-53-adding-field-group-sections-to-the-object-page)
-  - [Exercise 5.4 Using Shortcuts](exercises/ex5#exercise-54-using-shortcuts)
+- [Bonus Exercise 1 - Preparing texts for translation](exercises/ex4/README.md)
+- [Bonus Exercise 2 - Configuring Object Page](exercises/ex5/README.md)
+  - [Bonus Exercise 2.1 Defining Header Information](exercises/ex5#exercise-51-defining-header-information)
+  - [Bonus Exercise 2.2 Displaying Data Points in Object Page Header](exercises/ex5#exercise-52-displaying-data-points-in-object-page-header)
+  - [Bonus Exercise 2.3 Adding Field Group Sections to the Object Page](exercises/ex5#exercise-53-adding-field-group-sections-to-the-object-page)
+  - [Bonus Exercise 2.4 Using Shortcuts](exercises/ex5#exercise-54-using-shortcuts)
 
 ## How to obtain support
 
