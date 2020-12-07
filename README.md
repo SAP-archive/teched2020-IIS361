@@ -48,10 +48,10 @@ Wish you all the best.
   - [Exercise 3.6 Using Shortcuts](exercises/ex3#exercise-36-using-shortcuts)
 - [Bonus Exercise 1 - Preparing texts for translation](exercises/ex4/README.md)
 - [Bonus Exercise 2 - Configuring Object Page](exercises/ex5/README.md)
-  - [Bonus Exercise 2.1 Defining Header Information](exercises/ex5#exercise-51-defining-header-information)
-  - [Bonus Exercise 2.2 Displaying Data Points in Object Page Header](exercises/ex5#exercise-52-displaying-data-points-in-object-page-header)
-  - [Bonus Exercise 2.3 Adding Field Group Sections to the Object Page](exercises/ex5#exercise-53-adding-field-group-sections-to-the-object-page)
-  - [Bonus Exercise 2.4 Using Shortcuts](exercises/ex5#exercise-54-using-shortcuts)
+  - [Bonus Exercise 2.1 Defining Header Information](exercises/ex5#bonus-exercise-21-defining-header-information)
+  - [Bonus Exercise 2.2 Displaying Data Points in Object Page Header](exercises/ex5#bonus-exercise-22-displaying-data-points-in-object-page-header)
+  - [Bonus Exercise 2.3 Adding Field Group Sections to the Object Page](exercises/ex5#bonus-exercise-23-adding-field-group-sections-to-the-object-page)
+  - [Bonus Exercise 2.4 Using Shortcuts](exercises/ex5#bonus-exercise-24-using-shortcuts)
 
 ## How to obtain support
 
