@@ -446,7 +446,6 @@ The below table shows the available keyboard shortcuts.
   |Share                     |Shift + Ctrl + S                  |Shift + CMD + S        |The focus should be set anywhere on the list report or object page. | If the focus is on the filter bar, the share-ActionSheet opens near the Share button   
   |Go                        |Enter (or) Return                 |Enter (or) Return      |The focus should be set anywhere on the SmartFilterBar (or) any element in the visual filter panel or on the entire visual filter. |In the SmartFilterBar, the search is triggered while the focus is within one of the filter bar’s input fields. (or) If the focus is on any element in the visual filter panel or on the entire visual filter, Go is triggered.
   |Table settings |Ctrl + , |Ctrl + , |The focus should be set on the table. |The same as when a user chooses the Table Settings button.
-  |Export as   |Shift + Ctrl + E  |Shift + CMD + E  |The focus should be set on the table.  |The same as when a user chooses Export to Excel → Export As.
   
 Summary
 -------
