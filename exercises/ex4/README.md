@@ -1,4 +1,4 @@
-Exercise 4 - Preparing texts for translation
+Bonus Exercise 1 - Preparing texts for translation
 =============================================
 
 In this exercise, you will generate the translation text keys for the hard-coded string values you used in the previous exercises. For this you will use the i18n support of the XMl annotation LSP.
