@@ -128,7 +128,6 @@ you can start it again as described in [Exercise 2.5 Starting Application Previe
 open the drop-down list of the Time Period field and choose a desired
 date range. To filter this content, choose either last 2 quarters, last 6 months or this year.
 
-![](media/image16.png)
 
 (16) Click **Go**. The data will be filtered based on your selection
 
