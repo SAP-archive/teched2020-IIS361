@@ -293,7 +293,7 @@ type in the annotation Common.ValueList as in steps (25) - (26) above.
 
   |**Field**                        |**Value**
   |-------------------------------- |--------------------------------
-  |Entity Type                      |Z_SEPMRA_SO_SALESORDERANALYSIS
+  |Entity Type                      |Z_SEPMRA_SO_SALESORDERANALYSISType
   |Entity Type Property             |Product
   |Collection Path                  |SEPMRA_SO_ALP_SLDORDERITEM
   |Presentation Variant Qualifier   |FilterQuantityByProduct

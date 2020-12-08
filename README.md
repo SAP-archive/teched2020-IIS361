@@ -12,6 +12,8 @@ In our use case, we want to create an app that allows a sales manager to have an
 
 At the end of the exercise, the app will consist of 2 screens. The first screen leverages the “analytical list page” template and displays a collection of sales order items in a chart and a table, with analytics and filtering capabilities. The second screen uses the “object page” template to display details about a sales order item
 
+Slide deck is available [here](SAP_TechEd_2020_SAP_Fiori_elements_SID1229\(IIS361\).pdf).
+
 
 ## Requirements
 
