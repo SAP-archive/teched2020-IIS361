@@ -75,4 +75,4 @@ You have successfuly substituted the hard coded texts in your annotation file wi
 
 **Note**: You can compare the contents of your **i18n.properties** file with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>i18n**, right-click on the **i18n.properties** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex4-\>solutions_ex4-\>webapp-\>i18n**, right-click on the **i18n.properties** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. 
 
-Next exercise is a Bonus Exercise, you will configure content for the second page of your application - Object Page. Continue to [Bonus Exercise 5 - Configuring the Second Page (Object Page)](../ex5/README.md)
+Next exercise is a Bonus Exercise, you will configure content for the second page of your application - Object Page. Continue to [Bonus Exercise 1 - Configuring the Second Page (Object Page)](../ex5/README.md)
