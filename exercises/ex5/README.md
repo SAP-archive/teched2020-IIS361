@@ -1,11 +1,11 @@
-Bonus Exercise 2 - Configuring the Second Page (Object Page)
+Bonus Exercise 1 - Configuring the Second Page (Object Page)
 =======================================================
 
 In this exercise, you will define the header and content for the Object
 page using the Guided Development tool. Open this tool as in [Exercise 2
 -- Configuring Content Area of Analytical List Page](../ex2#exercise-2---configure-content-area-in-analytical-list-page).
 
-Bonus Exercise 2.1 Defining Header Information
+Bonus Exercise 1.1 Defining Header Information
 --------------------------------------
 
 In this exercise, you will define the information that will be displayed
@@ -50,7 +50,7 @@ guide.
 click on the navigation indicator ( '\>' ) at the end of a table row in
 the Analytical list page.
 
-Bonus Exercise 2.2 Displaying Data Points in Object Page Header
+Bonus Exercise 1.2 Displaying Data Points in Object Page Header
 ---------------------------------------------------------
 
 In this exercise, you will you will add two additional pieces of
@@ -128,7 +128,7 @@ currency, even though we did not define it. This is due to annotations
 already configured for you in the **metadata.xml** file: the **NetAmount** and **Currency** properties are tied together using the `sap:unit` and
 `sap:semantics` annotations.
 
-Bonus Exercise 2.3 Adding Field Group Sections to the Object Page 
+Bonus Exercise 1.3 Adding Field Group Sections to the Object Page 
 -----------------------------------------------------------
 
 In this exercise, you will define two sections in the ObjectPage
@@ -248,7 +248,7 @@ the Analytical list page.
 
 ![](media/image24.png)
 
-Bonus Exercise 2.4 Using Shortcuts
+Bonus Exercise 1.4 Using Shortcuts
 ---------------------------------------------------------
 
 In this exercise, you will get acquainted with the shortcuts that are available on Object page. 
@@ -263,5 +263,5 @@ You have successfuly configured the basic content for your Object page with anno
 
 **Note**: You can compare the contents of your **annotation.xml** file with the solutions we prepared for you.  For this, expand the folder **salesorderanalysis\>webapp-\>annotations**, right-click on the  **annotation.xml** file and choose **Select for Compare**. Then expand the folder **teched2020-IIS361-\>exercises-\>ex5-\>solutions_ex5-\>webapp-\>annotations**, right-click on the **annotation.xml** file there and choose **Compare with Selected**. The files will be displayed side by side for comparison. 
 
-You can also prepare for translation all the texts added in this exercise for the object page as described in [Bonus Exercise 1 - Preparing texts for translation](../ex4/README.md)
+You can also prepare for translation all the texts added in this exercise for the object page as described in [Exercise 4 - Preparing texts for translation](../ex4/README.md)
  
