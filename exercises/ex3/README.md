@@ -248,7 +248,7 @@ application preview as described in [Exercise 2.5 Starting Application Preview](
 
 ![](media/image27.png)
 
-Exercise 3.4 Configuring Visual Filter with Bar Chart 
+Exercise 3.4 Configuring Visual Filter with Bar Chart (Optional)
 -----------------------------------------------------
 
 In this exercise, you will go through the similar steps to create one
