@@ -55,7 +55,7 @@ messages in annotation.xml file.
 ![](media/image8.png)
 
 (8) To view or modify the i18n record in the **i18n.properties** file,
-**Ctrl+Click** at the text reference ![](media/image9.png).
+**Ctrl+Click/Cmd+Click** at the text reference ![](media/image9.png).
 
 ![](media/image10.png)
 
@@ -65,7 +65,7 @@ the entry you chose in the annotation file.
 ![](media/image11.png)
 
 (9) To view or modify the i18n record without leaving the file, click on
-the text reference ![](media/image12.png) and press **ALT+F12**.
+the text reference ![](media/image12.png) and press **ALT+F12/Option+Fn+F12**.
 
 ![](media/image13.png)
 
